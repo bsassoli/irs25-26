@@ -46,36 +46,50 @@ class ChatBot:
 
 def parse_and_embed_kb(chroma_client) -> VectorStoreIndex:
     # Configure settings
-    Settings.llm = OpenAI(model="gpt-4o", temperature=0)
+    Settings.llm = OpenAI(model="gpt-4", temperature=0)
     Settings.embed_model = OpenAIEmbedding()
     Settings.text_parser = HybridMarkdownSentenceParser()
 
-
-    # Create a ChromaDB collection
-    collection_name = "recipes_for_science"
+    # Collection name for our knowledge base
+    collection_name = "philosophy_knowledge"
+    
+    # Check if collection exists
+    collections = chroma_client.list_collections()
+    collection_exists = any(collection.name == collection_name for collection in collections)
+    
+    # Create or get the collection
     chroma_collection = chroma_client.get_or_create_collection(collection_name)
-    
-    
-    # Create a vector store using the ChromaDB collection
     vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
-    
-    # Create storage context
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
     
-    # Load documents from knowledge base directory
-    documents = SimpleDirectoryReader(
-        input_dir="./data/chapters",
-        recursive=True
-    ).load_data()
+    # Only load and index documents if the collection doesn't exist or is empty
+    if not collection_exists or chroma_collection.count() == 0:
+        print("Creating new knowledge base index...")
+        
+        # Load documents from knowledge base directory
+        documents = SimpleDirectoryReader(
+            input_dir="./data/chapters",
+            recursive=True
+        ).load_data()
 
-    # Create and return index
-    index = VectorStoreIndex.from_documents(
-        documents,
-        storage_context=storage_context,
-        show_progress=True
-    )
+        # Create index with ChromaDB storage
+        index = VectorStoreIndex.from_documents(
+            documents,
+            storage_context=storage_context,
+            show_progress=True
+        )
+        
+        print("Knowledge base successfully indexed.")
+    else:
+        print("Loading existing knowledge base...")
+        # Load the existing index from the vector store
+        index = VectorStoreIndex.from_vector_store(
+            vector_store=vector_store
+        )
+        print("Knowledge base loaded.")
     
     return index
+
 
 def chat_with_kb():
     """Interactive chat loop with the knowledge base."""
