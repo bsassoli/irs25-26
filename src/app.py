@@ -11,7 +11,9 @@ from llama_index.core import (
     get_response_synthesizer,
 )
 from hybrid_parser import HybridMarkdownSentenceParser
-from typing import List
+from prompt import PROMPT
+
+
 
 class ChatBot:
     def __init__(self, index: VectorStoreIndex):
@@ -19,16 +21,7 @@ class ChatBot:
         self.chat_history = []
         
         # Create a custom prompt that emphasizes philosophical expertise
-        self.qa_template = PromptTemplate(
-            """You are a highly knowledgeable philosophy expert with deep understanding of philosophical concepts, 
-            theories, and their practical applications. Using the provided context, answer the question, making sure to reference the provided material. If relevant, reference specific philosophers or schools of thought.
-
-            Context: {context}
-            
-            Question: {query}
-            
-            Answer: Let me provide a philosophical perspective on this."""
-        )
+        self.qa_template = PromptTemplate(PROMPT)    
         
         # Create query engine with custom response synthesizer
         self.query_engine = self.index.as_query_engine(

@@ -25,9 +25,14 @@ wheels/
 .coverage.*
 
 # ChromaDB files
-chroma/
+chroma_db/
+data/chroma_db/chroma.sqlite3
 
 # env files
 .env
 .env.*
-data/chroma_db/chroma.sqlite3
+
+# test results
+chunking_*
+evaluation_r*
+
