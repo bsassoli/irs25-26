@@ -14,11 +14,38 @@ In an unassuming warehouse in northern California, there lies an enormous model 
 
 The Bay model is a hydraulic model. Pumps move hundreds of thousands of gallons of water (1 gallon is 3.785 liters) to mimic the tides and currents of the real bay. This procedure works because the model is three‐dimensional and proportional; the different parts of the bay and river delta in the model are the right amount lower than sea level, and the surrounding land is the right amount above sea level. The Bay model also includes other features that affect water flow, like rivers, canals in the delta, wharfs, bridges, and breakwaters.
 
-The Bay model is not just a toy model made for tourists. Instead, it’s a scientific model. Scientific models are constructed to represent phenomena of interest and investigated to learn about those phenomena. This particular model is a terrific tool for learning about the San Francisco Bay and how human activities can affect it. Teachers, students, and scientists use the Bay model to study geography, ecology, human and natural history, and hydrodynamics. It has been used to help answer questions about how dredging new shipping channels would affect the delta, about how mining during the California Gold Rush changed the rivers, and about what would happen if the system of dikes and levees in the delta failed.
+The Bay model is not just a toy model made for tourists. Instead, it’s a scientific model. Scientific models are constructed to represent phenomena of interest and investigated to learn about those phenomena. This particular model is a terrific tool for
+
+DOI: 10.4324/9781003300007-6
+---
+
+# Scientific modeling
+
+ 
+
+  
+
+View of the San Francisco Bay model, looking toward the Golden Gate Bridge and Pacific Ocean
+
+# FIGURE 5.1
+
+learning about the San Francisco Bay and how human activities can affect it. Teachers, students, and scientists use the Bay model to study geography, ecology, human and natural history, and hydrodynamics. It has been used to help answer questions about how dredging new shipping channels would affect the delta, about how mining during the California Gold Rush changed the rivers, and about what would happen if the system of dikes and levees in the delta failed.
 
 A look at how and why the Bay model was first constructed will help us start to get a sense for the roles that models play in science. John Reber moved from Ohio to California in 1907 and set up as an amateur playwright, dramatist, and theatrical producer. Because of his work, he enjoyed social connections with numerous businessmen and politicians. In the 1940s, Reber became dismayed that the transcontinental railroad ended in Oakland rather than San Francisco, and he came to believe that the extensive bay between San Francisco and the mainland interfered with industry by isolating San Francisco from the rest of California and the US. He came to believe that this large body of water is a “geographic mistake” needing to be corrected.
 
-Reber’s career was in entertainment; he had no expertise in science or engineering. Nonetheless, he intrepidly proposed a grand plan to renovate, and then exploit, natural features of the bay that he thought would enable more efficient use of it. Reber suggested filling some parts of the bay to create additional land for things like airports and factories. This would also establish two freshwater lakes supplied by the rivers that empty into the bay. As freshwater has always been a limited resource in the San Francisco Bay area, it could be valuable to repurpose the bay for potable drinking water and irrigation.
+Reber’s career was in entertainment; he had no expertise in science or engineering. Nonetheless, he intrepidly proposed a grand plan to renovate, and then exploit, natural features of the bay that he thought would enable more efficient use of it. Reber suggested filling some parts of the bay to create additional land for things like
+
+# Scientific modeling
+
+ 
+
+  
+
+# The Reber plan: shaded areas were parts of the bay Reber proposed filling to create land
+
+Figure 5.2: The Reber plan
+
+This would also establish two freshwater lakes supplied by the rivers that empty into the bay. As freshwater has always been a limited resource in the San Francisco Bay area, it could be valuable to repurpose the bay for potable drinking water and irrigation.
 
 Reber’s plan was taken seriously by politicians and capitalists, and the US Army Corps of Engineers decided to test it out. An immediate problem, though, was that the Corps couldn’t effectively do so in the actual bay without first implementing it, and, wisely, the Corps wasn’t prepared to radically alter the bay and surrounding river delta before knowing what the results would be. They recognized that such changes might have unintended negative consequences for the local water supply, wildlife, vegetation, agriculture, and human population. What to do? How could they consider the effects of the plan without going ahead and carrying it out?
 

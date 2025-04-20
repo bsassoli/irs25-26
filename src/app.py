@@ -39,7 +39,7 @@ class ChatBot:
 
 def parse_and_embed_kb(chroma_client) -> VectorStoreIndex:
     # Configure settings
-    Settings.llm = OpenAI(model="gpt-4", temperature=0)
+    Settings.llm = OpenAI(model="gpt-4o", temperature=0)
     Settings.embed_model = OpenAIEmbedding()
     Settings.text_parser = HybridMarkdownSentenceParser()
 
@@ -61,7 +61,7 @@ def parse_and_embed_kb(chroma_client) -> VectorStoreIndex:
         
         # Load documents from knowledge base directory
         documents = SimpleDirectoryReader(
-            input_dir="./data/chapters",
+            input_dir="./data/text",
             recursive=True
         ).load_data()
 

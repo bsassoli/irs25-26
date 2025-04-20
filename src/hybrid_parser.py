@@ -3,7 +3,7 @@ from llama_index.core.schema import Document, TextNode
 from typing import List
 
 class HybridMarkdownSentenceParser:
-    def __init__(self, chunk_size: int = 512, chunk_overlap: int = 50):
+    def __init__(self, chunk_size: int = 256, chunk_overlap: int = 50):
         self.markdown_parser = MarkdownNodeParser()
         self.sentence_splitter = SentenceSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
 

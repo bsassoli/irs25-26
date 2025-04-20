@@ -5,6 +5,7 @@ TEST_QUESTIONS = [
         "What was the Reber plan?"
         "What is a meta-analysis?",
         "What are the pitfalls of meta-analyses?",
+        "What are Lagrange points?",
     ]
 
 
@@ -110,5 +111,24 @@ A meta-analysis produces an average effect size, which might obscure important d
 Studies with statistically significant results are more likely to be published. Meta-analyses that include only published studies may overestimate effect sizes and miss null or contradictory findings, skewing the overall conclusions​.
 
 In sum, while meta-analysis is a valuable method for gaining insights from multiple studies, its reliability depends critically on the quality of included research, the consistency of methods, and transparency in selection and analysis procedures.
+""",
+"""
+Lagrange points are specific solutions to a special case of what is known in physics as the three-body problem—the challenge of predicting the motion of three celestial bodies based on their positions, momenta, and gravitational interactions. This problem is famously difficult and lacks a general solution, but certain specific configurations have been solved.
+
+In particular, when one of the three bodies is nearly massless relative to the other two (e.g., a spacecraft in the Earth-Sun system), five unique solutions emerge. These five positions are called Lagrange points, named after Joseph-Louis Lagrange, who, along with his teacher Leonhard Euler, worked on these problems in the 19th century.
+
+Definition:
+Lagrange points are regions in space where the gravitational forces of two large orbiting bodies (like the Earth and the Sun) precisely balance the centripetal force needed for a much smaller third body (like a spacecraft) to move with them. In other words, a spacecraft placed at one of these points can remain in a stable position relative to the two larger bodies, requiring minimal energy to maintain its location​.
+
+Configuration:
+
+The first three points (L1, L2, L3) are located along the line connecting the two massive bodies.
+
+The last two points (L4 and L5) form the apexes of equilateral triangles with the two massive bodies at the base. This overall configuration resembles a “peace” sign​.
+
+Example:
+The James Webb Space Telescope (JWST) was sent to the L2 point of the Sun-Earth system. This location—about 1.5 million kilometers from Earth—allows the telescope to maintain a stable orbit with minimal fuel usage, harvest solar energy, and maintain clear lines of communication with Earth. However, the stability is not perfect, and small deviations from equilibrium can grow over time, requiring periodic course corrections​.
+
+In sum, Lagrange points exemplify a powerful application of deductive modeling in science, using mathematical reasoning to solve physical problems about motion and gravitational dynamics.
 """
 ]
