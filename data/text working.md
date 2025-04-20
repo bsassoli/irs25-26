@@ -1,311 +1,6 @@
-## CHAPTER 4 Non-experimental investigation
+## CHAPTER 5 Scientific modeling
 
-### 4.1 PALEONTOLOGY AND NON-EXPERIMENTAL STUDIES
-
-After reading this section, you should be able to:
-
-- Describe how scientists have learned about woolly mammoth and mastodon life histories
-- Give examples of when an experiment is impossible, impractical, and unethical
-- List three varieties of empirical investigation that can be used when intervention is not possible
-
-#### Prehistoric life histories
-
-The woolly mammoth (*Mammuthus primigenius*) is an extinct species most closely related to today’s Asian elephants. It’s one of the best understood prehistoric animals, with research based on preserved bones and dung, depictions in prehistoric cave paintings, and even frozen carcasses found in Siberia and North America.
-
-Research on woolly mammoths isn’t based on conducting experiments. Paleontologists can’t control the conditions encountered by woolly mammoths, of course, or recruit them into experimental and control groups. Indeed, they can’t intervene on woolly mammoths at all, since the last mammoths died millennia before the invention of science. Scientists can directly study some features of mammoths—namely, physical and chemical features of their preserved carcasses, skeletons, teeth, and dung—but they are also interested in other mammoth features that can’t be studied directly, like their diets, habitats, social interactions, and migration patterns. These features relate to woolly mammoth’s life history: the traits and circumstances that affected survival and reproduction of members of the species.
-
-The impossibility of experimentation doesn’t mean paleontologists are at a dead end, unable to gain knowledge about woolly mammoth physical traits and life histories. Instead, they just have to get a little creative about where they find evidence and how they draw inferences.
-
-For example, a 2021 article in the journal *Science* reported the results of chemically analyzing the tusk of a woolly mammoth that lived 17,000 years ago. The researchers compared the isotopes of two elements (oxygen and strontium) to geographic maps showing isotope variation in the environment. Because of how tusks grow over a mammoth’s lifespan, this comparison enabled the researchers to identify where this particular woolly mammoth moved across its lifetime. It was found to have a very extensive geographic range, traveling very long distances across what is now Alaska.
-
-The researchers could also see that the mammoth had different types of movements across its lifespan. In the first 16 years of its life, it moved repeatedly among the same territories, which is similar to how herds of elephants move today, suggesting the mammoth was moving with a herd. Then, in the middle of the mammoth’s life, the isotopic variation increases, suggesting it wandered irregularly over long distances, which in turn suggests that it had left its herd, as mature males in elephant species also do. Finally, in the last year and a half of its life, the mammoth moved only within a very small area. Its tusk also showed an isotopic pattern associated with starvation, which is probably how it died.
-
-In this study, researchers were able to use chemical analysis to determine where one mammoth lived and how this changed over time, and then to draw further conclusions about its health and even its social interactions—that is, whether it lived in a herd. These conclusions aren’t just about this particular mammoth, but about other woolly mammoths as well, and potentially other similar species, especially that also lived during the Pleistocene era. Indeed, other scientists followed up on this study by performing similar chemical analyses on the tusk of an American mastodon (*Mammut americanum*) that lived about 13,000 years ago. Mastodons and woolly mammoths both lived in the Pleistocene era and were similar in appearance, but mastodons are less closely related to modern elephants.  
-
-##### Box 4.1 The roles of museums in science
-
-Visiting a museum is a way to learn about history, art, and science in an enjoyable and leisurely way. But museums also play an important role in scientific research. To start, many have extensive collections of artifacts that are useful as objects of scientific research. These can include fossils, artifacts from human history, preserved plants and animals, and more. Usually, a given museum will only display small portions of its collection at a time; other items in the collection can be available for scientific research. Many science museums also have scientists on staff: curators often have advanced degrees in relevant fields of science and conduct their own scientific research. It’s also common for science museums to have partnerships with nearby universities. Scientists at the university may access collections or collaborate with curators, and sometimes graduate students participate in research activities at the museum as well. There’s a trend toward making this research activity visible to members of the public who visit the museum. Sometimes museums include discussion of ongoing related scientific research in their exhibits or have lab space in which scientists can conduct research while guests and visitors look on.
-
-These scientists were able to identify how the mastodon’s migration followed annual seasons, including adult springs and summers in an unusual location far from its typical range; this was inferred to be a mating ground. Life history research on both woolly mammoths and modern African elephants was also deployed to support conclusions from their data, for example, that the mastodon lived in herds, and also to draw conclusions from their research to a broader group of similar large mammals. Thus, both of these studies analyzed remnants from particular, long-extinct animals with reference to ecological data and knowledge about modern‐day related animals in order to draw conclusions about long‐ago happenings that we can never observe directly, let alone intervene upon.
-
-#### When experiments aren’t possible
-
-In the paleontology research just described, the scientists couldn’t directly or indirectly control variables, intervene on, or even directly observe the phenomena under investigation. Experiments just aren’t possible. Instead, they brought together various forms of evidence to draw inferences about mammoth and mastodon life histories.
-
-This is one reason experiments can’t be performed: sometimes it’s downright impossible to experiment on the phenomenon under investigation. The phenomenon may have occurred eons ago, like the life histories of Pleistocene mammals, or might occur far away, like star formation in nebulas, or it might be impossible to intervene on, like the Earth’s orbit around the Sun.
-
-Other times, experimental intervention might technically be possible but is impractical or inadvisable. We might wonder what would happen to the solar system if the Earth’s moon exploded, but no one is rushing to develop the capacity to explode the moon in order to find out. And, though it’s important to research how childhood trauma impacts health in adulthood, it’s simply unethical to perform experiments to find out, as that would require randomly assigning children to the experimental condi‐tion of experiencing significant trauma.
-
-In instances like these, scientists need to employ methods of empirical investigation that do not rely on experimentation. Some of these methods adhere closely to experimental methods, only deviating when necessary. For example, although scientists can’t randomly assign children to an experimental group that experiences significant trauma and a control group that does not, they can compare the later health outcomes of children who experience trauma to those who do not, attempting to ensure other variables do not differ consistently between the experimental and control groups. This is an observational study: data is collected and analyzed without performing interven‐tions and sometimes without aiming to control extraneous variables. Observational studies are especially common in studying human populations, as in the health sciences, educational research, psychology, and economics, as it is unethical or impractical to intervene on many circumstances of human life.
-
-Scientists have developed numerous approaches to observational studies. These differ from experiments in a variety of ways and can use creative methods to manage extraneous variables. Other methods of empirical investigation deviate more fully from experimental methods. We have seen that paleontology research into mammoth and mastodon life history utilizes several different forms of evidence to piece together a picture of what things must have been like. This is a common approach to empirical investigation in the historical sciences, fields of science that investigate past events, such as archaeology, paleontology, and cosmology—the scientific study of the origin and development of the universe. Another category of empirical investigation relies on extensive data or simulation, such as computer simulations, as the basis for gaining knowledge when experiments aren’t possible or feasible.
-
-
-
-##### EXERCISES
-
-4.1 Recall: Describe how scientists have learned about woolly mammoth and mastodon life histories. What forms of evidence have they used? What kinds of conclusions have they drawn?
-
-4.2 Think: Describe at least two ways in which the mastodon research described earlier built on the woolly mammoth research also described.
-
-4.3 Recall: What are three reasons that scientists can not always perform experiments? Give an example of each.
-
-4.4 Apply: Give an example of potential scientific research in each of the following categories:
-
-- a. performing an intervention is impossible
-- b. performing an intervention is impractical
-- c. performing an intervention is unethical
-- d. direct observation is impossible
-
-4.5 Recall: List three varieties of empirical investigation available when intervention is not possible; briefly describe each.
-
-4.6 Apply: Imagine you would like to know what your friend’s favorite restaurant is, but you can’t ask her directly. List 10 ideas for how you might get evidence bearing on this question. Put a checkmark next to the 4–7 ideas that you think would be the easiest evidence to obtain. Then, put an asterisk (*) next to the 4–7 ideas that you think would generate the strongest evidence. Write 2–3 sentences analyzing the potential kinds of evidence, the ease of collecting them, and their strength. Then, describe how you would approach your “study”—that is, which form(s) of evidence you would collect and how you would go about collecting it.
-
-### 4.2 OBSERVATIONAL STUDIES
-
-After reading this section, you should be able to:
-
-- Describe and give an example of natural experiments, longitudinal studies, cohort studies, case studies, and phenomenological analysis
-- Indicate three ways observational studies can manage extraneous variables
-- Characterize the similarities and differences between each type of observational study and experiments
-
-#### Natural experiments
-
-Every now and then, nature gives rise to circumstances that are almost like an experiment. These so-called natural experiments occur when an intervention on an independent variable occurs naturally in real life, without scientists bringing it about. An example is the case of Louis Leborgne, who lost the ability to speak when he was about 30 years old. He could utter only a single syllable, tan, which he usually repeated twice in succession, giving rise to his nickname “Tan Tan.” Apart from his inability to speak, Leborgne exhibited no symptoms of physical or psychological trauma. He could understand other people, and his other mental functions were apparently intact. After Leborgne died at the age of 51 in a Paris hospital in 1861, the physician Paul Broca performed an autopsy. He found that Leborgne had a lesion in the frontal lobe of the left hemisphere of his brain, an area that came to be known as Broca’s area and recognized as essential to speech production.
-
-Broca’s insight into brain activity was based on identifying accidental circumstances that altered speech production, which we can think of as the dependent variable, and then studying what was different in Leborgne’s brain that might give rise to the dramatic change. The function of Leborgne’s brain was not intervened upon by Broca; Leborgne just happened to suffer damage to a precise location in the brain such that Broca could later identify it as crucial for speech production. Broca conjectured that a specific area in the human brain is necessary for speech, from which he developed the expectation that an injury in Broca’s area causes the loss of speech—an expectation confirmed with an autopsy after Leborgne’s death. This inability to produce speech is now known as Broca’s aphasia.
-
-Natural experiments also occur when groups just happen to get sorted accidentally—without any scientific intervention—into something approximating experimental and control groups. Some natural or historical process separates them out, such that one group but not the other can be construed as receiving an experimental treatment or condition. For example, in the early 2000s, researchers investigated how having women village council leaders, known as Pradhan, in India might affect social services. This was a natural experiment relying on a 1993 Indian constitutional amendment that required one-third of Pradhan positions to go to women. The law was structured so that the change in leadership was randomly implemented across villages, mimicking a surgical intervention. Researchers collected data on 265 village councils in West Bengal and Rajasthan, including the minutes of village council meetings and Pradhan interviews. They also collected data about social services and infrastructure in each village and requests that had been submitted to the village council. The Pradhan’s policy decisions and villagers’ requests were unaffected by their interactions with the experimenters, since those requests and decisions were already made during data collection. The researchers found that women policymakers had important effects on social service policy decisions. Women Pradhan increasingly invested in the social goods that were more closely connected to women’s concerns in a village: drinking water and roads in West Bengal and drinking water in Rajasthan. They invested less in public goods connected to men’s concerns: education in West Bengal and roads in Rajasthan.
-
-As this example illustrates, governmental policy can support natural experiments or at least indirectly control some variables in an observational study. Many studies examining the impact of the Covid‐19 pandemic and pandemic policies like stay‐at‐home orders or remote school instruction relied on variation in policy to create quasi‐experimental conditions.
-
-For example, an observational study evaluating pandemic‐related learning loss in elementary‐school students compared the standardized test scores of Ohio third graders in school districts that began the 2021 school year in remote instruction, hybrid instruction, and in‐person instruction. This study benefits from both direct and indirect variable control from law and policy. All Ohio third graders are required by law to take the same standardized test at the same time of year. But, school districts across the state varied in when they returned to in‐person instruction—from the start of the 2021 school year in August to spring of 2022. That variation enabled researchers to determine whether additional time in remote instruction extended learning loss. And it did: all districts saw a decrease in student proficiency, but 11.2% fewer students who began the year with remote instruction met the state benchmark for advancing to fourth grade, whereas 6.5% fewer students with hybrid instruction and 5.3% fewer students with in‐person instruction met the benchmark to advance.
-
-#### Managing extraneous variables
-
-As stressed in Chapter 3, experimental methods are designed to eliminate the possibility of confounding variables through direct and/or indirect variable control. The same principles apply in observational studies, though researchers must seek circumstances that naturally hold extraneous variables constant (direct control) or vary them randomly (indirect control), or they must use techniques to manage extraneous variables when direct and indirect control aren’t possible. Circumstances sometimes perfectly mirror experimental conditions, giving rise to natural experiments, but it is common in observational studies for there to be extraneous variables that circumstances do not directly or indirectly control.
-
-Scientists have developed various methods to manage uncontrolled extraneous variables in observational studies. For example, in the study on Covid‐19 learning loss just mentioned, school districts were not randomly distributed across the conditions of remote, hybrid, and in‐person instruction. So, researchers used the data to estimate the impact of other factors like unemployment and poverty level on learning loss and then they calculated how that effect would impact remote versus hybrid versus in‐person districts. They found that those extraneous variables did not account for the difference observed.
-
-Another method sometimes used to help account for extraneous variables is to match subjects with different characteristics across the different conditions, and then only investigate outcomes for those subjects. For example, if this method had been employed in the Covid‐19 study just discussed, researchers would identify individual third graders in remote, hybrid, and in‐person instruction and attempt to match them with similar third graders across these instructional formats, attending to potential confounding variables like income level, race, prior academic achievement, and family unemployment or illness. This method isn’t as successful at controlling variables as random group assignment, but it goes some way toward correcting for confounding variables (as long as researchers are already aware of them).
-
-Other approaches to accounting for extraneous variables make use of the passage of time. In a longitudinal study, observations are made of the same variables over time, in many cases over a long period of time. The study on Covid‐19 learning loss we have been discussing is a longitudinal study: the researchers compared standardized test performance of all third graders in Ohio public schools in 2022 with the performance of third graders in Ohio public schools in prior years. Unlike all prior students, third graders in 2022 had experienced educational disruptions from Covid‐19, and there’s good reason to think Covid‐19 and its downstream effects are the only major differences between these third graders and those of prior years.
-
-Longitudinal studies can be carried out over many years. The Early Childhood Longitudinal Study was started by the US Department of Education in the late 1990s and has followed 20,000 American children, examining their development, performance at school, and early school experience. Researchers also conducted extensive interviews with the subjects’ families. This study provides a lot of information about American children’s development and family life, such as what is important about kindergarten experiences for later academic success, and whether offering Algebra I to eighth graders as an online course is effective. (It is.) Early Childhood Longitudinal Studies continue, with the latest following the kindergarten class of 2023–2024 through the fifth grade.
-
-One type of longitudinal research is a cohort study, where researchers select a group of subjects sharing some defining trait and study them over time, in comparison to another group of subjects that is as similar as possible except without this trait. Cohort studies can reveal changes over time in the characteristics of the group of subjects with the trait of interest. For example, subjects with Covid‐19 may be grouped according to demographics like age and gender, or treatments they received, and then have their health outcomes assessed.
-
-# Case studies
-
-One form of observational study that is quite different from a controlled experiment is a case study, a detailed examination of a single individual, group, system, or situation in a real‐life context. Case studies allow researchers to gain a first‐hand understanding of a phenomenon as it occurs in its specific context. Often, various sources of data are used for case studies. Depending on the phenomenon under investigation, these may include observations of a person’s daily routine, unstructured interviews with participants and informants, letters, e‐mails, social media activity, legal or archival records, buildings, animal or plant behavior, and so forth.
-
-A defining feature of case studies is their reliance on qualitative data. Qualitative data consist of information in non‐numerical form, whereas quantitative data are in numerical form, which makes them easily comparable. For example, “the subject reports being very angry” and “the subject reports being not angry at all” are qualitative data, whereas “the subject reports their anger is a 3 on a scale of 1–5” and “the subject reports their anger is 1 on a scale of 1–5” are quantitative data. Case studies are often employed in the context of qualitative research in epidemiology, psychiatry, education, ethnography, archaeology, and other social sciences.
-
-Case studies may focus on an instance of a common situation or condition, or they may focus on outliers, that is, individuals or situations that deviate from what’s common. An example of a case study on a common situation is the research reported in the 2013 book Paying for the Party by education researcher Elizabeth Armstrong and sociologist Laura Hamilton. Armstrong and Hamilton conducted a five‐year study focusing on the college experience of one group of women at a large, public university in the United States. Their research reveals ways in which social and academic life at such a university prioritizes a “party pathway” catering to affluent and well‐connected students but disadvantages less affluent and first‐generation students, to the detriment of their education and future careers.
-
-A downside to case studies is that they offer no ways to control extraneous variables or to compare a variety of outcomes. Because the research focuses on only one individual, event, or group, results can be difficult to replicate and to generalize. Case studies are also vulnerable to bias due to the evaluation of qualitative data and no blinding.
-
-Yet, in some fields, detailed first‐person, qualitative reports of individual cases play important roles without necessarily aiming for reproducibility or generalizability. For example, clinical case reports often provide clinicians with accounts of surprising or novel conditions in an individual patient, which may generate contextually situated understanding of those conditions and new hypotheses about diagnosis and treatment. Case studies can also be valuable exploratory research, as a way to indicate promising foci for later experiments or more robust observational studies. For example, Armstrong and Hamilton’s research may set the stage for a broader investigation into how a university Greek system or certain majors differently affect students with differing socioeconomic status.
-
-### Phenomenological analysis
-
-Case studies sometimes reveal a first‐person perspective on some phenomenon or situation, that is, how things feel or seem to the subject of the investigation. You may wonder whether such subjective accounts can be of scientific value; after all, science involves empirical investigation and comparison across individual perspectives. It’s true that there is oftentimes scientific value in generalizing from one individual’s perspective. But it’s also true that first-person perspective on situations a person is experiencing can be essential to scientific knowledge. First-person accounts of lived experiences play various roles in fields such as psychiatry, health sciences, sociology, and anthropology.
-
-First-person accounts sometimes are called phenomenological to emphasize that they are grounded in the methods of phenomenology, a philosophical tradition concerned with making sense of embodied subjective experience. In science, phenomenological analysis aims to describe and analyze what some experience is like for a particular individual. Phenomenological analysis is focused on subjective experience. It simply makes no sense to say that one’s experience of, say, pain is incorrect if it varies from others, though we might contrast common experiences of pain with outlying experiences of pain.
-
-##### Box 4.2 Phenomenological analysis
-
-Phemenology is a tradition in philosophy that originated in Europe in the early 20th century. It includes the work of philosophers like Edmund Husserl, Martin Heidegger, Edith Stein, Maurice Merleau-Ponty, Aron Gurwitsch, and others. The etymology of the word phenomenology comes from ancient Greek and means study of that which appears. What unifies strands of research within the phenomenological tradition is their focus on the structures of consciousness as experienced from the first-person perspective. One central structure of conscious experience is its intentionality—that is, being about or of something.
-
-Three methods in phenomenology to study the structures of conscious experience can be relevant to scientific fields like cognitive science, psychiatry, medicine, anthropology, and sociology. The first method consists in describing conscious experience as it is experienced, without influence by scientific or historical interpretation. Another method consists in interpreting conscious experiences by situating them in their social, material, and technological context. A third method consists in analyzing the essence of and conditions for different kinds of intentional states like perceptions, emotions, beliefs, and desires, pointing out their differences and similarities in relation to time, space, self, body, and interpersonal social relationships.
-
-Phemenological analysis has been used in psychology and neuroscience to distinguish actions of our body that we feel a sense of agency over from mere movements we are not responsible for. This distinction is salient when you are, say, pushed or jostled: you experience your body moving but do not experience yourself as having performed that movement. In light of this distinction, psychologists and neuroscientists have designed experiments to investigate whether there are different mechanisms. responsible for these experiences. These experiments might help our understanding of symptoms of psychiatric conditions like the experience of thought insertion in schizophrenia, where an individual does not feel agency over some of their thoughts. In this example, phenomenological analysis helps clarify two distinct phenomena, which scientists can then probe with experiments and also compare with psychiatric patients’ accounts of their own experiences.
-
-Phenomenological analyses can also play a role in medicine, particularly in relation to what it is like to experience illness and how healthcare providers communicate with patients. For example, phenomenological insight can inform the development of methods for better understanding a patient’s experience that go beyond verbal reports. Methods that tap into the experience of illness as an embodied phenomenon that affects one’s experience can yield insight into changes in movements and behaviors. This can help bridge the gap between patients’ experience of illness and healthcare providers’ understanding of the illness and, accordingly, improve patients’ trust in their doctors.
-
-##### EXERCISES
-
-4.7 Recall: Give a brief description and an example of natural experiments, longitudinal studies, and cohort studies, and then describe how each manages extraneous variables.
-
-4.8 Apply: Look back at this section’s description of the study of standardized test scores of Ohio third graders in school districts in 2022, after educational disruption from Covid-19. Describe how direct and indirect variable control were each used in the study (without researcher intervention), how the researchers managed the extraneous variables of unemployment and poverty level, and why being a longitudinal study was important for variable control.
-
-4.9 Recall: Give a brief description and an example of case studies and phenomenological analysis.
-
-4.10 Think: Why are qualitative data essential for case studies and phenomenological analysis?
-
-4.11 Apply: For each of the following hypotheses, decide whether it’s best investigated with an experiment or observational study and, if the latter, which variety of observational study (natural experiment, longitudinal study, cohort study, case study, or phenomenological analysis). Explain your reasoning, taking into account the hypothesis under investigation, the feasibility or ethics of experimentation, and other constraints.
-
-- a. Whether rising interest rates make stock prices go up
-- b. Whether men’s resumes are judged more positively than women’s, regardless of the resume content
-- c. Whether Covid-19 patients admitted to a hospital sooner are less likely to die
-- d. Whether a patient who is fidgeting feels greater pain (regardless of her reported pain level)
-- e. Whether a new medicine is effective in decreasing symptoms of Parkinson’s disease
-
-4.12 Think: Describe the example of phenomenological analysis in psychology and neuroscience or the example from medicine. In the example you’ve described, what do you think is added by considering a person’s subjective experience?
-
-### 4.3 IMAGINATION AND COMPUTATION
-
-After reading this section, you should be able to:
-
-- Describe and give an example of thought experiments and computer simulations
-- Define big data and machine learning and describe how these are used in scientific research
-- Analyze the advantages and disadvantages of each of these non-experimental approaches
-
-#### Thought experiments
-
-The power behind experimentation is intervention and variable control. Observational studies employ a variety of different techniques to approximate this combination of intervention and variable control. Another way to proceed when direct or indirect variable control needed to run an experiment isn’t possible is to perform an intervention on something else more under our control. An opportunity for this is provided by our rich imaginations.
-
-Thought experiments involve an imagined intervention on an imagined system to learn about the role of the independent variable in the real world. Thought experiments may supplement empirical investigation or, in some cases, can replace it entirely. In the right conditions, your imagination can be a reliable guide to learn about reality.
-
-Here’s a simple example. Someone who does not often drink in bars stays out late one night in a bar with their friends. They awake in the morning feeling physiologically and psychologically poor. They might ask themselves how they would feel if, instead, they’d gone home earlier from the bar. They know enough about the circumstances and their own propensities to be able to infer that they’d have had fewer drinks, slept a few more hours, and now would be less dehydrated and better rested. They can’t go back in time to actually perform this intervention, and so they use this informal thought experiment to arm themselves with knowledge about how staying out late drinking in bars rather than going home to sleep (the independent variable) affects their physiological and psychological health the next morning (the dependent variable).
-
-In science, thought experiments can be used to test a hypothesis, to show that nature does not conform to one’s previously held expectations, or to suggest ways in which expectations can be revised. In 16th‐ to 17th‐century Italy, Galileo Galilei used many thought experiments in his investigations of physics and astronomy. In one instance, he wished to investigate an idea shared by many “natural philosophers” of his time that objects with different weights fall at different speeds. Galileo asked his readers to assume that this was true: that heavier objects fall faster than lighter objects. He then imagined two objects, one light and one heavy, connected to each other by a string and dropped from the top of a tower. If the heavier object fell faster, then the string would pull taut. But, Galileo reasoned, both objects together are heavier than the heavy object on its own. So, the two objects together should fall faster than either object alone. The objects cannot simultaneously fall both faster and slower, and so the idea that was the starting point for this thought experiment could not be right. Galileo thus conjectured that the speed of a falling body is not dependent on its weight.
-
-Newton also used thought experiments to help show how his theory of gravitation worked. He had readers imagine a cannon at the top of an extremely tall mountain and then asked: what would happen if somebody loaded the cannon with gunpowder, and then fired? Plausibly, Newton reasoned, the cannonball would follow a curve, falling faster and faster because of gravity’s force, and would hit the Earth at some distance from the mountain. But what if one used more gunpowder? The velocity of the cannonball would be greater, and it would travel farther before falling back to Earth following a curve trajectory. But if one used vastly more gunpowder, then, Newton suggested, the cannonball would travel so fast that it will fall all the way around the Earth, never landing. The cannonball would be in orbit, going around again and again just like the Moon! If the cannonball went even faster, then it would escape Earth’s gravity heading out in space. Newton’s theory of gravitation provided the resources to arrive at these same conclusions through mathematical calculations. Yet, imagining this situation gives a satisfying, intuitive sense for how an object like the Moon can stay in orbit by remaining in constant free fall.
-
-In the 20th century, thought experiments were central to the development of both transformative theories in physics: the theory of relativity and quantum mechanics. An example that’s received some popular attention is the thought experiment about Schrödinger’s cat. Quantum mechanics treats subatomic particles mathematically as if they are not in discrete locations but probabilistically spread over possible locations, and there’s a longstanding and unresolved debate about how to interpret this mathematical characterization. When a technological apparatus is used to detect an electron, it is always in a single, discrete location. Are subatomic particles like electrons really not in discrete locations until they are measured? If so, what changes when they are measured?
-
-Erwin Schrödinger, Nobel Prize‐winning physicist, asked us to imagine a cat, a readily observable living entity, in an apparatus that entangled its state with a subatomic particle such that the cat is killed if some quantum event occurs and not otherwise. Yet, quantum mechanics gives us just probabilities for whether the event occurs. If this is truly the state of the particle, then the cat is not definitively alive or definitively dead but in a probabilistic state between these. This result is inconsistent with our experience of reality, of the possible ways cats could be, and is meant to show that an answer is needed for how the mathematics of quantum mechanics should be interpreted for everyday experiences of reality. Note that this thought experiment was not intended as a challenge to quantum mechanics, which has significant evidence in its favor, but to demonstrate the need to offer an interpretation for how that theory relates to our everyday observations
-
-Just like experiments, thought experiments may suffer from poor experimental design or from scientists inferring unjustified conclusions from them. An additional, very significant limitation is that experimental results are always limited by scientists’ powers of imagination. The world can surprise us, including in experimental results, in ways that thinking through the implications of ideas generally cannot. One possible response to the challenge of Schrödinger’s cat, for example, is just to point out that our imagination may be ill‐equipped to comprehend what we have never directly experienced, like the behavior of subatomic particles.
-
-#### Computer simulations
-
-As thought experiments can be used to imagine fictive interventions, computers can be used to simulate interventions. Computer simulations are computer programs developed from data to mimic a phenomenon. Examples of simulated phenomena might include ecological effects of global climate change, likely shapes of galaxies after two collide, and the progression of a pandemic under different circumstances.
-
-Computer simulations play key roles in many fields of contemporary science, including climate science, astronomy, and epidemiology (the fields of the computer simulations used as examples in the previous paragraph). Computer simulations may be used in combination with experiments or observational studies, or they may be used when experiment or observational studies are not possible. Regardless, a significant amount of background knowledge about the phenomenon is required in order to develop computer programs that can adequately simulate the behavior of a phenomenon. This limitation is similar to the limitations of thought experiments: computer simulations are only as accurate as the data they are based on and how they are programmed.
-
-By running computer simulations and intervening on their features, scientists can learn what would happen to a phenomenon in different circumstances or explore particular features. For example, computer simulations of the Earth’s climate use dynamical equations to model the interactions of solar energy, chemicals in the atmosphere, ice, and other factors over time. These simulations can then be studied to yield insight into how climate change is progressing, its variable impact on temperature and weather in different parts of the world, and the potential of different changes to slow or reverse its progression.
-
-Computer simulations allow researchers to have extensive control over extraneous variables. After all, in computer simulations, the researchers decide what data to base the simulations on and what factors to take into account in the program. Computer simulations often can be easily evaluated for their degree of external experimental validity, in the sense that we can evaluate how well their results generalize from the contrived conditions to real‐world phenomena by comparing the results of the simulations to empirical measures of the phenomena. To the extent the simulation and the real‐world system it describes have relevant similarities, we can be more confident the computer simulation produces trustworthy, generalizable results.
-
-There was more public attention to computer simulation in science during the Covid‐19 pandemic than perhaps at any previous time. Epidemiologists began to use computer simulations very early in the pandemic to predict rates of transmission, hospitalization, and mortality and to influence policy decisions on stay‐home orders and school and business closures. Early in the pandemic, these simulations were by necessity based on limited data that were rapidly developing as researchers learned more about the SARS‐CoV‐2 virus, its transmission, and its effects. Models provided broad ranges of possibilities for pandemic progression, and different models often varied radically in their predictions. Yet sometimes these limitations were overlooked or brushed aside, and scientists, policymakers, or the public interpreted the models as making highly specific predictions and different models as providing contradictory predictions.
-
-This instance of computer simulation in science was typical in the sense that early simulations of novel phenomena—like exploratory experiments or early scientific investigations of other kinds as well—begin with some guesswork and involve iterative improvement. But this instance was highly atypical in the extensive publicity received by early predictions of computer simulations. Because that publicity was so unusual, there is a risk that people who don’t ordinarily pay attention to computer simulation in science will infer from its limitations early in the Covid‐19 pandemic that it is an untrustworthy technique. As we have noted, computer simulations are limited by the existing knowledge used to develop the computer program, as well as by what factors scientists include or exclude from the simulation.
-
-#### Big data and machine learning
-
-Experiments ultimately are valuable because they generate data and because we know certain things about the conditions in which the data were generated. Observational studies, thought experiments, and computer simulations seek to approximate this approach or seek other kinds of data. A very different approach is to simply maximize data and see what you can learn.
-
-Big data are very large data sets that cannot be easily stored, processed, analyzed, or visualized with traditional methods. Big data sets can reveal unexpected patterns, trends, and associations. Scientific researchers use big data to study weather patterns, DNA, and risk factors for disease, among many other phenomena. Cameras, medical devices, e‐mails, social media, and the internet, have produced an ever‐increasing stream of data in recent years. Some scientific investigations also produce a tremendous amount of data to be processed and analyzed, especially those relying on computer technologies such as telescopes in astronomy and the Large Hadron Collider (LHC) at CERN. For example, if all the sensor data in LHC were recorded, this would approach 500 exabytes per day, or 500 quintillion (5 × 1020) bytes. And, the processing of scientific data has also gotten much faster. While it originally took ten years to sequence the human genome, completed in 2003, a genome can now be sequenced in less than one day.
-
-Generally, an algorithm is a procedure for obtaining some outcome that halts in a finite number of steps. Machine learning algorithms in particular are step‐by‐step procedures run on powerful computers that enable scientists to mine large data sets for patterns or to perform other tasks. Machine learning algorithms have begun to play numerous roles in science, as well as business and our everyday life. When, for example, you search the internet, access social media, or order food online, there is some learning algorithm operating in the background that has learned how to rank web pages, make personalized suggestions about content you will probably like on social media, and coordinate food orders and timely deliveries. Once the algorithm learns what to do with data, it will perform such specific tasks automatically.
-
-In scientific research, machine learning algorithms can mine data for patterns, process images and audio files, and make predictions. For example, imagine that you want to determine general trends in food preferences, and you have at your disposal a data set containing all social media posts produced in the past year. Filtering those posts to a subset relevant to food preferences is extraordinarily valuable, as is visualizing the data about the popularity of various foods. The patterns and trends uncovered by analyzing a large amount of data about some subject can give insight into relationships among variables of interest and can be used to make predictions.
-
-Big data and machine learning can help limit the influence of researchers’ expectations on findings. For example, current classifications of mental illness, such as schizophrenia, are often criticized for being too coarse-grained and ill-defined to help clinicians and therapists make a reliable diagnosis and provide patients with adequate treatment. Because psychiatric classifications lump together several different psychiatric symptoms and variables that may have little in common, studies relying on machine learning for mining large sets of behavioral, biological, and other types of data from many patients and healthy subjects (as a control group) might discover more useful ways of classifying psychiatric conditions, even if these classifications are not intuitive to us.
-
-The analysis of big data can even help us better understand how science works. For example, bibliometric methods, including the analysis of networks of citations in published work, can be used to investigate the level of productivity of a certain field of research, trends in the topics of scientific research, and even the social dynamics underlying scientific practice. The number of citations of a published article is an index of recognition, which is one of the primary rewards for scientists. So, citation rates and patterns can be used to quantify scientific impact and to predict what factors might affect the course of science.
-
-But studies relying on big data and machine learning also raise distinctive challenges. One challenge is their opacity. The algorithms used in machine learning applications are sometimes unknown to outside researchers, because of security, business, or copyright reasons. This goes against the culture of open exchange that is typical of the social institution of science. Beyond this, how and why an algorithm returns a certain output—for example, a certain mental illness classification decision—can be difficult or impossible to explain even for the researchers who designed it. Finally, even the data on which the algorithm is trained may be unknown to the users of the algorithm.
-
-This opacity is especially problematic because outputs or the underlying data may be misleading or biased, or researchers’ assumptions that influenced the algorithm may be wrong. In 2008, researchers from Google claimed that they could immediately predict what regions experienced flu outbreaks based simply on people’s online searches. The assumption was that when people are sick with the flu, they often search for flu-related information on Google. Unfortunately, this idea wasn’t borne out. Google Flu Trends made very inaccurate predictions, significantly overestimating flu outbreaks, and was shut down.
-
-Another challenge with big data and machine learning techniques is how they may inherit researchers’ biases, an outcome they were designed to avoid. This is a negative result for scientific investigation in general, but it is especially problematic when the biases in question reflect sexism, racism, and other prevalent societal prejudices with actual real-life consequences. A prime example is a machine learning algorithm developed by the company Amazon in 2014 for employee recruitment. The algorithm was trained to review job applications automatically, indicating which applicants would be the best to hire. The algorithm had the unintended effect of systematically ranking male applications higher than female applications. Investigation revealed that the algorithm was trained on historical data about the performance of past employees at Amazon, and these employees were predominantly men. Because it was trained on this data set, the algorithm predicted that high‐performing employees would likely be men. When Amazon researchers realized this in 2018, they abandoned the hiring approach. This example illustrates how the opacity of machine learning algorithms can have unintended consequences with a real impact.
-
-##### Box 4.3 Algorithmic fairness and justice
-
-In many domains like business, law, insurance, police work, and healthcare, human decision-making is increasingly supported—and sometimes replaced—by machine learning algorithms. These algorithms attempt to compute predictions based on historical data on which the algorithms were trained. Algorithmic predictions can be objective, but they can also unwittingly reflect unfairness and human prejudices without any deliberative effort by programmers to include these in the algorithm. For example, Tay was a chatbot released by Microsoft Corporation in 2016, and shutdown shortly thereafter because it produced sexist and racist content on Twitter. COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) was used by US courts to predict criminals’ risk of recidivism, but it produced a higher rate of false positives (non-recidivists incorrectly labelled “high risk”) for Black defendants than for White defendants and a higher rate of false negatives (recidivists incorrectly labelled “low risk”) for White defendants than for Black defendants. Cases like these raise difficult ethical and political questions, often grouped under the headings of algorithmic fairness, algorithmic justice, or algorithmic bias. One question concerns the right criterion of fairness—when it comes to recidivism, for example, should the criterion be equal rates of false positives and false negatives between two given groups, or should it be absolutely equal predictive accuracy across all individuals? A second question is whether algorithms are at least less biased than human decision-making without algorithms. Another question is whether, and why, algorithmic justice should be informed by secular, egalitarian, and liberal values rather than, say, Confucian values or politically conservative values.
-
-##### EXERCISES
-
-4.13 Recall: Watch Video 8 Describe and give an example of a thought experiment and a computer simulation.
-
-4.14 Think: Describe the similarities and differences between thought experiments and computer simulations.
-
-4.15 Recall: Define big data and machine learning algorithm and describe how these are used in scientific research.
-
-4.16 Think: Describe how each of thought experiments, computer simulations, and machine learning algorithms are useful to gaining scientific knowledge. For each, what are the limitations in their usefulness?
-
-4.17 Think: Describe three advantages and three disadvantages of scientific studies relying on big data and machine learning algorithms.
-
-4.18 Apply: Algorithms and big data have an ever-increasing impact on our daily activities. Consider the following activities:
-
-- a. Online dating
-- b. Autonomous vehicles
-- c. Police profiling
-- d. Online trading
-- e. Urban planning
-
-Choose three of these activities, then, for each of the three, write a short paragraph describing one task an algorithm might perform and what type of data the algorithm might be trained on to learn that task. Then, formulate a question or concern about the behavior of the algorithm in that domain, explaining its importance. What reasons or values are relevant to addressing the question or concern?
-
-### 4.4 MULTIPLE SOURCES OF DATA
-
-After reading this section, you should be able to:
-
-- Describe the steps of meta‐analysis and how meta‐analysis improves experimental validity
-- Define methodological omnivory and indicate the circumstances in which it’s useful
-- Characterize how methods of empirical investigation depend on the phenomenon under investigation, the circumstances, and the aims
-
-#### Meta-analysis
-
-As we’ve seen, observational studies employ various methods to control or account for extraneous variables. Nonetheless, many studies have limited utility. There may be fewer subjects than needed, confounding variables, no control group, or other foibles that limit their explanatory power. But experiments can have some of these same downsides, too; as emphasized in Chapter 3, most experiments cannot adhere to ideal experimental procedures.
-
-The technique of meta-analysis offers a way to combine the results of multiple experiments or observational studies of the same hypothesis to strengthen the conclusions that can be inferred. The idea is that several studies, each with different limitations, can be combined to additionally account for extraneous variables and correct for other shortcomings. Meta‐analysis is thus used to better estimate the real extent of the independent variable’s influence on the dependent variable by combining the different findings of several distinct studies. Meta‐analysis can also identify patterns in study results, including helping to reveal and analyze possible reasons for conflicting results.
-
-Meta‐analysis is especially common in healthcare research, but it is increasingly employed in other fields as well. To conduct a meta‐analysis, researchers first identify a question that has been targeted in existing scientific research—for example, whether and to what extent patients experience the placebo effect when they know they are receiving a placebo. (See Chapter 3 on the placebo effect.) Then, researchers conduct a literature search and decide which studies should be included in the meta‐analysis.
-
-For each included study, an effect size (a quantitative measure of the strength of a phenomenon) is estimated from the study’s results, and then the effect sizes are combined using statistical methods that are beyond the scope of this book. This results in an estimate of the common effect size across the studies and also a measure of how much the study outcomes deviate from one another.
-
-In the meta‐analysis of the placebo effect, researchers screened 1,246 studies and selected 11 to analyze. These included randomized controlled studies of any medical condition or mental illness that compared administration of a placebo with patients’ knowledge to no treatment at all. The application of relevant statistical methods resulted in the finding of a large overall effect size but also high deviation in effect sizes across studies. The studies included in the meta‐analysis assessed the placebo effect on improving symptoms from back pain, fatigue from cancer, attention deficit hyperactivity disorder, nasal allergies, depression, irritable bowel syndrome, and hot flashes from menopause.
-
-From the large overall effect size, the researchers conclude that administering placebo medications, even with patients’ knowledge that they are receiving placebos, may be a promising treatment for several difficult‐to‐treat medical conditions and mental illnesses. The researchers also note that more research is required, especially regarding efficacy of the placebo effect for different conditions, how patients are notified of the placebo, and how patient expectations influence the treatment. Comparison across studies included in the meta‐analysis is used to identify these potential sources of variation to target for further study.
-
-Meta‐analyses offer a way to consider and integrate the results from many existing studies, thereby increasing the knowledge gained from them and identifying sources of discrepancies in their results. Sources of discrepancies can include differences in the specific phenomena investigated (such as which health condition patients have), the experimental design (such as how patients are notified about the placebo), techniques of data analysis, and confounding variables (variation in patients’ mindset or expectations). All of this can be used to improve internal experimental validity by accounting for confounding variables as well as external experimental validity, including both ecological validity, through variation in study circumstances, and population validity, through variation in subject inclusion across studies. (See Chapter 3 for more on internal and external experimental validity.)
-
-There are also some drawbacks and limitations to meta‐analysis. First, the results of meta‐analyses inherit any systematic flaws of the studies they combine. It can also be  difficult to control the influence of researcher bias, as there are unavoidable judgment calls in which studies to include in the analysis and whether some study has flaws that warrant its exclusion. Finally, the whole point of a meta‐analysis is to combine studies with different specifics and different findings to see what they reveal together.
-
-The measure of deviation across study outcomes can identify the extent to which findings of individual studies vary, but beyond this, meta‐analysis ignores differences across studies that may provide important information. For example, it could be that the placebo effect is an especially promising treatment for some conditions but not others. Focusing on the strength of the placebo effect across a wide variety of medical conditions and mental illnesses may lead researchers to overlook or insufficiently attend to variation across these conditions.
-
-#### Methodological omnivory
-
-Recall the paleontology research into woolly mammoth and mastodon life histories from the beginning of the chapter. Experiments on living mammoths and mastodons simply aren’t possible, and scientists can’t conduct observational studies of these prehistoric creatures either. The targets of investigation are separated from the investigators by eons; they can’t observe behavior or collect direct evidence. Instead, as we saw, paleontologists creatively employed techniques of chemical analysis on the tusks of these extinct creatures with reference to ecological data and knowledge about modern‐day related animals in order to draw conclusions about long‐ago happenings that we can never observe directly.
-
-Philosopher Adrian Currie has dubbed this approach in the historical sciences methodological omnivory, which is the use of multiple methods and specially tailored tools to generate evidence about specific targets. This approach is identifiable from scientists combining a number of distinct methods, often from multiple scientific fields, and also from significant investment in developing special tools tailored to specific evidential roles.
-
-For example, the mammoth and mastodon studies used highly specific isotope analyses of layers of a tusk and extensive measurements of isotope ratios in the surrounding geologic formations to piece together a specific animal’s movements through its range during the different parts of its life. Comparison with migration and life history patterns of modern elephants enabled the researchers to draw other inferences from the animal’s movements, such as whether it moved with a herd and that it annually travelled long distances to a mating ground. These investigations were also supported by other past research into mammoth and mastodon physiology, lifespan, and more. Across studies like these on related phenomena, paleontologists can piece together more and more evidence to develop increasingly extensive knowledge of long‐ago creatures.
-
-Another technique involved in the mastodon study was the development of a computer simulation that used the isotope data to calculate likely distances travelled and geographic locations. As this illustrates, computer simulations can be an important feature of methodological omnivory, as simulations are one way of drawing broader inferences from the data scientists are able to assemble.
-
-When experimental data aren’t readily available, a variety of techniques from observational studies to computer simulations, big data, and meta-analysis are available for potential use. As we’ve seen, there’s no single answer to which of these methods is best. There are different recipes; and which ones are effective depend on the phenomenon under investigation, the circumstances of investigation, and the aims of the research.
-
-Depending on the circumstances of the investigation, some phenomena lend themselves to data collection in quasi-experimental circumstances or to other forms of direct and indirect variable control. Sometimes, when ecological validity is important, these types of observational studies are better than experiments. Variability in a phenomenon and prioritizing first-hand experience increases the value of case studies and even phenomenological analysis. Thought experiments and computer simulations can provide indirect access to features of phenomena not available for experimental manipulation. And when phenomena produce a vast store of data, big data techniques and machine learning algorithms can be useful. If many empirical studies already exist, a meta-analysis of those studies can be more useful than direct empirical investigation. Finally, some phenomena are so distant in time or space that they can only be studied very indirectly, using various tools of simulation and studying their distant effects, as in paleontology and astrophysics.
-
-##### EXERCISES
-
-4.19 Recall: Describe the steps of meta-analysis. Then, describe how a meta-analysis can improve both internal and external experimental validity.
-
-4.20 Apply: Find a published meta-analysis and look over the article (or, your instructor may provide one for you to analyze). Summarize the study, including how many studies were included, how the researchers selected those studies, if any were subsequently excluded, what conclusions they reached, and any concerns or open questions they indicated.
-
-4.21 Recall: Define methodological omnivory and describe how the paleontology research into woolly mammoths and mastodons in section 4.1 illustrates its use.
-
-4.22 Apply: Describe a new example of scientific research where methodological omnivory is used. What about this research and the circumstances in which it’s conducted make methodological omnivory useful? (Hint: you might consider research in a historical science, like anthropology or cosmology.)
-
-4.23 Recall: List all the kinds of empirical investigation without experiments we’ve discussed in this chapter. (By our count, there are 11.) For each, briefly describe how it generates empirical evidence and in what kinds of circumstances it’s useful.
-
-##### FURTHER READING
-
-For a concise treatment of qualitative research and its methodology, see Golafshani, N. (2003). *Understanding reliability and validity in qualitative research*. The Qualitative Report, 8(4), 597–606.
-
-For more on the role of thought experiments in science, see Horowitz, T., & Massey, G. (Eds.). (1991). *Thought experiments in science and philosophy*. Rowman & Littlefield.
-
-For more on the use of big data in science, see Leonelli, S. (2020). “Scientific research and big data”. In E. N. Zalta (Ed.), *The Stanford encyclopedia of philosophy* (Summer 2020 ed.). https://plato.stanford.edu/archives/sum2020/entries/science‐big‐data/.
-
-For an introduction to phenomenology in philosophy and cognitive science, see Kaufer, S., & Chemero, A. (2015). *Phenomenology: An introduction*. Polity.
-
-For more on meta-analysis and how it varies across fields, see Kovaka, K. (2022). “Meta-analysis and conservation science”. *Philosophy of Science*, 89(5), 980–990.
-
-For a discussion of methods in the historical sciences and an articulation of “methodological omnivory,” see Currie, A. (2018). *Rock, bone, and ruin: An optimist’s guide to the historical sciences*. MIT Press.
-
-# CHAPTER 5
-
-# Scientific modeling
-
- 
-
-  
-
-# 5.1 THE SAN FRANCISCO BAY AND THE VALUE OF SCIENTIFIC MODELS
+###  5.1 THE SAN FRANCISCO BAY AND THE VALUE OF SCIENTIFIC MODELS
 
 After reading this section, you should be able to:
 
@@ -313,7 +8,7 @@ After reading this section, you should be able to:
 - Define scientific model and target system, and indicate why models need to be partly similar to and partly different from their target systems
 - Analyze the similarities and differences between the Bay model and the San Francisco Bay and how each is valuable or problematic
 
-# The Bay model
+#### The Bay model
 
 In an unassuming warehouse in northern California, there lies an enormous model of the San Francisco Bay and the surrounding Sacramento–San Joaquin River Delta. The San Francisco Bay area is a large body of ocean water surrounded by a large urban population living in diverse geological terrains and climates. The delta surrounding the bay is an area the size of the US state of Rhode Island, stretching from the Pacific Ocean almost halfway across the width of California. The Bay model is huge: it’s over 1.5 acres in size (more than 6,000 square meters) and is made of 286 five‐ton concrete slabs pieced together like a jigsaw puzzle. Still, as large as it is, the Bay model is 1,000 times smaller than the actual San Francisco Bay.
 
@@ -350,8 +45,6 @@ Reber’s career was in entertainment; he had no expertise in science or enginee
 Figure 5.2: The Reber plan
 
 This would also establish two freshwater lakes supplied by the rivers that empty into the bay. As freshwater has always been a limited resource in the San Francisco Bay area, it could be valuable to repurpose the bay for potable drinking water and irrigation.
----
-# Scientific modeling
 
 Reber’s plan was taken seriously by politicians and capitalists, and the US Army Corps of Engineers decided to test it out. An immediate problem, though, was that the Corps couldn’t effectively do so in the actual bay without first implementing it, and, wisely, the Corps wasn’t prepared to radically alter the bay and surrounding river delta before knowing what the results would be. They recognized that such changes might have unintended negative consequences for the local water supply, wildlife, vegetation, agriculture, and human population. What to do? How could they consider the effects of the plan without going ahead and carrying it out?
 
@@ -359,13 +52,11 @@ This highlights one way in which scientific models can be useful. When performin
 
 As it turned out, when the Reber plan was implemented in the Bay model, its unintended consequences were disastrous. Rather than lakes, the dams created stagnant pools of poor‐quality water that couldn’t support ecosystems or be used for drinking or irrigation. Altering the dam configuration in the model to solve that problem just created another problem: fast currents that again destroyed ecosystems and made travel in the bay significantly more dangerous. When the Corps reported these findings, the Reber plan was abandoned.
 
-# Models and targets
+### Models and targets
 
 The real‐world system or phenomenon that scientists want to study using a model is called a target system, or just a target. Because scientists investigate models to draw conclusions about target systems, a model needs to be like the target system in some ways; that is, it should be similar to, or resemble, the target. And not just any similarity will do. Scientific models need to be similar to their targets in relevant ways for what is being studied. This is why the Bay model replicated tides and currents and other important features to water flow in the San Francisco Bay. If the model were being used to study traffic flow across the bridges, different features would need to be similar.
 
 The relevant similarities between a model and target system are what makes it possible to gain knowledge about a target system from studying a model. Relevant similarity can be achieved in different ways. The Bay model uses real water and simulated tides to mimic water flow, but depth and water resistance of the model had to be adjusted before the water flow was right. Different adjustments could have been made, so long as they also mimicked the real water flow. Or, the model could have been made a different size or out of different materials.
----
-# 110 Scientific modeling
 
 The differences between a model and target system are just as important as the similarities. The Bay model’s different spatial and temporal scales are two features that made it useful for learning about the real San Francisco Bay and delta. The model is much smaller than the real bay, with much faster tidal cycles. This allowed scientists to observe what would happen with a spatially distributed, long‐lasting sequence of events in a short time and without having to leave the model’s warehouse. Had the Corps tried to build a model exactly like the San Francisco Bay, it would have been too large to put anywhere, and it would have changed so slowly, they would have had to wait years to find out about the consequences of the Reber plan.
 
@@ -375,39 +66,21 @@ The scientists who built the Bay model thus had to decide which features of the 
 
 Some models are similar to their targets by exemplifying them. An exemplar is a model that is one of the target systems it is used to represent. Researchers can use exemplars to represent a broader class of targets that includes the exemplar, drawing conclusions about the whole class of targets by investigating just the exemplar. For example, the fruit fly (Drosophila melanogaster) is a common model organism in genetics and developmental biology. Biologists have used the fruit fly to learn how genes influence physical traits and how embryos develop from single cells to mature organisms.
 
-# Drosophila melanogaster
-
-has a very simple genome with just four chromosomes
-
-# FIGURE 5.3
----
-# Scientific modeling
-
 The fruit fly’s features make it a good model for many purposes. Fruit flies are small and reproduce quickly, and large populations are easily maintained in labs. Their genome is very simple, with only four chromosomes, and scientists have it entirely mapped; so they can make precise interventions in their genes. As an exemplar, the fruit fly is used as a model organism to learn about genes in general, to show how development works in all insects, and for other applications. But, for some investigations, the differences from other organisms that make fruit flies particularly convenient models can also hinder their usefulness, like when genomic complexity is important.
 
-# EXERCISES
+##### EXERCISES
 
-# 5.1 Recall:
+5.1 Recall: Define the terms model and target system, and indicate the model and target system(s) in one example of scientific modeling.
 
-Define the terms model and target system, and indicate the model and target system(s) in one example of scientific modeling.
+5.2 Apply: For both the Bay model and the fruit fly as a model organism, say what the model is, what the target system is, how the model is related to the target system, and what the model is useful for.
 
-# 5.2 Apply:
+5.3 Recall: Describe the Bay model of the San Francisco Bay, explaining the purpose for which it was built and what one could learn about the real world from this model. Describe three similarities between the Bay model and its target and three differences, explaining the purpose of each.
 
-For both the Bay model and the fruit fly as a model organism, say what the model is, what the target system is, how the model is related to the target system, and what the model is useful for.
+5.4 Think: Identify two reasons why researchers often use simpler model organisms like the fruit fly to study human biology.
 
-# 5.3 Recall:
+5.5 Apply: List three examples of scientific models not introduced in this section. For each, indicate what the model is used to investigate.
 
-Describe the Bay model of the San Francisco Bay, explaining the purpose for which it was built and what one could learn about the real world from this model. Describe three similarities between the Bay model and its target and three differences, explaining the purpose of each.
-
-# 5.4 Think:
-
-Identify two reasons why researchers often use simpler model organisms like the fruit fly to study human biology.
-
-# 5.5 Apply:
-
-List three examples of scientific models not introduced in this section. For each, indicate what the model is used to investigate.
-
-# 5.2 THE MODELING PROCESS
+### 5.2 THE MODELING PROCESS
 
 After reading this section, you should be able to:
 
@@ -415,13 +88,9 @@ After reading this section, you should be able to:
 - List three main steps involved in modeling and describe what happens in each
 - Define variable, parameter, assumption, idealization, and giving an example of each from the Lotka-Volterra model
 
-# Specifying target systems
+#### Specifying target systems
 
-Scientific modeling is a way of gaining knowledge about a target system by investigating a model. The modeling process must include some initial analysis of the target system. Scientists need to decide what they are trying to learn about in order to construct a...
----
-# 112 Scientific modeling
-
-useful model. Do they want to predict the effects of proposed changes to the San Francisco Bay? Examine the genetic influences on some trait? Or, say, learn more about how number of predators influences a population of animals? All of these projects require models with different features.
+Scientific modeling is a way of gaining knowledge about a target system by investigating a model. The modeling process must include some initial analysis of the target system. Scientists need to decide what they are trying to learn about in order to construct a useful model. Do they want to predict the effects of proposed changes to the San Francisco Bay? Examine the genetic influences on some trait? Or, say, learn more about how number of predators influences a population of animals? All of these projects require models with different features.
 
 An archer cannot accurately hit a target with their arrow if they don’t know where the target is or what it looks like. Without some knowledge about the target system, scientists can’t evaluate whether their models are similar enough, and in the right ways, to usefully study the target. So, at the beginning of the modeling process, scientists need to have a sense for what a model should be about and what they want to learn from the model. This can be preliminary and partial, just enough to get the process going.
 
@@ -429,13 +98,11 @@ For the Bay model, the task was to evaluate the feasibility and consequences of 
 
 Once the goal of a model is settled by deciding what is to be learned about the target system, scientists also need to know something about which features of the target system are important and what those features are like. This is so they can construct a model that is similar to the target in the proper ways to be useful. When planning the Bay model, scientists figured that the tides and currents might be important to the Reber plan’s effects. To calibrate the model to have the same tides and currents as the real San Francisco Bay, researchers needed extensive data about these features of the real bay. Eighty people took measurements at different locations throughout the 1,424 square kilometer (550 square mile) bay every 30 minutes through a full tidal cycle of 48 hours. They recorded tide velocity and direction, changes in the water’s salinity (salt content), and the concentration of sediment. These and other data were needed in order to decide what features a model of the bay should have.
 
-# Constructing the model
+#### Constructing the model
 
 After specifying the target system, researchers construct the model. This stage of modeling involves choices regarding how a model is designed to be similar to its target, what its other features are like, and to how many different circumstances or different targets a model should apply.
 
 For the Bay model, researchers elected to construct a physical replica of the target. The San Francisco Bay is a complex system, and one advantage of a physical model is that the scientists didn’t need to understand how changes occur in the bay to predict those changes. Instead, their approach was to make the replica as similar as possible to the bay in all the ways they thought might matter, and then sit back and see what happened. Still, the model required extensive calibration—comparison with the real bay followed by adjustment—before it was accurate enough to make trustworthy predictions. The engineers used their extensive measurements of the bay’s tides and currents to ensure patterns of water flow in the Bay model were similar to those of the real bay. They had to tinker with the scales used for depth and width of the bay and the water resistance of the surface in order to get the proper water flow.
----
-# Scientific modeling
 
 Other modeling approaches that don’t involve constructing a physical replica offer different advantages and challenges. For example, the Lotka‐Volterra model is an influential model in ecology developed independently by Alfred Lotka and Vito Volterra in the 1920s. Unlike the Bay model, the Lotka‐Volterra model does not lie in any warehouse. It’s a simple, abstract mathematical model. The Lotka‐Volterra model uses mathematical equations to represent the interactions of predators and their prey, like foxes and hares, lions and wildebeest, polar bears and seals, and so on. Here are the equations:
 
@@ -447,27 +114,17 @@ One variable, x, stands for the number of prey animals (for example, seals). Ano
 
 The Lotka‐Volterra model represents predator‐prey interactions, but there’s no straightforward way in which these equations are similar to animals eating other animals. Instead, the similarity is between the numbers that solve these equations for certain values of the variables and parameters and how predator and prey populations change in size over time. Recall that different choices can be made in how to achieve similarity with the target system; for models like this one, the similarity is simply in mathematical description. Mathematical models like the Lotka‐Volterra model require a firmer grasp of what about the target system is important and how these features interact than physical replicas do.
 
-Variables and parameters are explicit parts of the Lotka‐Volterra model. What doesn’t appear are the model’s assumptions, but these are no less important. In this context, an assumption is a specification that a target system must satisfy for a given model to be similar to it in the expected way. In the Lotka‐Volterra model, numerous assumptions must be satisfied for the numbers solving the equations to indicate the actual change in predator and prey population sizes. For instance, the model assumes that prey populations will expand if there are no predators and that predator populations will starve without prey. Both assumptions are plausible. The model also assumes that prey populations can always find food, that predators are always hungry, and that predators and prey are moving randomly through a homogenous environment. These three assumptions are idealizations. An idealization is an assumption made without
----
-# 114 Scientific modeling
-
-regard for whether it is true, often with full knowledge that it is false. These idealizations enable scientists to focus on the essentials of predator-prey interactions in general, without getting lost in complicating details of specific populations’ circumstances. Idealizations are discussed in more depth later in the chapter.
-
- 
+Variables and parameters are explicit parts of the Lotka‐Volterra model. What doesn’t appear are the model’s assumptions, but these are no less important. In this context, an assumption is a specification that a target system must satisfy for a given model to be similar to it in the expected way. In the Lotka‐Volterra model, numerous assumptions must be satisfied for the numbers solving the equations to indicate the actual change in predator and prey population sizes. For instance, the model assumes that prey populations will expand if there are no predators and that predator populations will starve without prey. Both assumptions are plausible. The model also assumes that prey populations can always find food, that predators are always hungry, and that predators and prey are moving randomly through a homogenous environment. These three assumptions are idealizations. An idealization is an assumption made without regard for whether it is true, often with full knowledge that it is false. These idealizations enable scientists to focus on the essentials of predator-prey interactions in general, without getting lost in complicating details of specific populations’ circumstances. Idealizations are discussed in more depth later in the chapter.
 
 Because models can be similar to target systems in different ways, a single target is sometimes represented by multiple models. This can be useful when the real-world phenomenon is so complex that no single model can provide scientists with all they want to know about it. Weather patterns are a good example. Meteorological models normally represent only some of the factors needed to generate reliable predictions. Some may invoke humidity, temperature, and dew point to describe and predict certain basic weather patterns like precipitation. Other models may invoke other parameters, such as central pressure deficit and wind speed and direction, to better predict particular phenomena, like hurricanes. Sometimes meteorologists aim to make more reliable predictions by carefully cobbling together the results of different models of a given weather system.
 
 It’s also possible for a single model to have more than one target system. A model might be designed to represent a type of event that recurs often. The Lotka-Volterra model is like that; it is designed to capture something important about seal and polar bear populations, wildebeest and lion populations, and many more prey and predator populations. And the same meteorological models can be used to study different hurricanes, as well as typhoons and cyclones. In contrast, the Bay model is designed to specifically represent the San Francisco Bay and surrounding delta. A new model would need to be designed to represent any other bay.
 
-# Analyzing the model
+#### Analyzing the model
 
 Once a target has been specified and a model constructed with that specification in mind, the model must be analyzed to learn about the target. Models that involve equations, like the Lotka-Volterra model, can be mathematically analyzed by inputting values for parameters and variables representing specific information about a target population. Analysis may also involve manipulating a model to see the effects of changes. This kind of physical manipulation was performed on the Bay model to test the Reber plan. For model organisms like fruit flies, scientists may alter a gene and see how the offspring change to explore the gene’s effects.
 
 Such manipulations produce data that, if all goes well, can be used to learn about the target. This is a central purpose of analyzing a model: to draw conclusions about the target system(s). The Bay model revealed that freshwater lakes couldn’t be maintained in the San Francisco Bay, as the Reber plan called for, and that the planned dams would have disastrous unintended consequences to the local environment. It was thereby concluded that the Reber plan shouldn’t be implemented in the real San Francisco Bay. The Lotka-Volterra model, in turn, reveals that predator and prey population numbers are tightly linked. More prey leads to an increase in predators, and more predators leads in turn to a decrease in prey. This results in a cyclical relationship between predator and prey population sizes, where the population sizes go up and down together.
----
-# Scientific modeling
-
-# Figure 5.4
 
 Visual representation of solutions to the Lotka-Volterra equations; these are values of x and y that solve the equations, which predict how prey and predator populations will covary.
 
@@ -475,58 +132,33 @@ The main purpose of analyzing a model is to learn about the target system(s). Bu
 
 An example of this use of model analysis is the process of calibrating water flow in the Bay model to match water flow in the real San Francisco Bay. Engineers used their extensive measurements of tides and currents in the bay to adjust the model’s depth, width, and water resistance until its water flow matched. Ultimately, they made the model bay much deeper proportionally than the real bay, which helped. But this resulted in water moving too quickly in shallow parts of the model. Researchers compensated for this by adding 250,000 copper strips to the bay floor in the model to increase water resistance. They chose how many copper strips to add to any given place by comparing the model’s water flow with that of the real bay.
 
-Different models with the same target are sometimes analyzed together to see whether and to what extent they have the same results. This technique is called robustness analysis. It can help determine whether models are accurate of the target when direct comparison with the target isn’t possible, like when the target is highly complex like the climate or a country’s economy. If multiple meteorological models with different variables, parameters, and assumptions all predict an upcoming increase of...
----
-# Scientific modeling
+Different models with the same target are sometimes analyzed together to see whether and to what extent they have the same results. This technique is called robustness analysis. It can help determine whether models are accurate of the target when direct comparison with the target isn’t possible, like when the target is highly complex like the climate or a country’s economy. If multiple meteorological models with different variables, parameters, and assumptions all predict an upcoming increase of temperature in a region, this prediction is robust and seems to have more evidence backing it. Similar predictions from different models also can help scientists identify common features of the models, which might relate to stable relationships involved in the complex phenomenon under investigation. In this way, climatologists and other scientists studying complex systems can learn whether and to what degree the predictions of a model should be taken seriously.
 
-temperature in a region, this prediction is robust and seems to have more evidence backing it. Similar predictions from different models also can help scientists identify common features of the models, which might relate to stable relationships involved in the complex phenomenon under investigation. In this way, climatologists and other scientists studying complex systems can learn whether and to what degree the predictions of a model should be taken seriously.
+##### EXERCISES
 
- 
+5.6 Recall: List all of the parameters and variables in the Lotka-Volterra model and what each stands for. Then, describe the difference between variables and parameters. Finally, list at least three assumptions of the Lotka-Volterra model and indicate which are idealizations.
 
-  
+5.7 Think: Suppose that you are modeling interactions between alligators (predator) and ducks (prey). Make a list of five features of the target system you think your model should take into account. Then, for each feature, say how it is similar or different in other predator/prey systems. For any features that are different, can you think of a related feature that would be similar between the systems?
 
-# EXERCISES
+5.8 Apply: Indicate at least three important differences between the Bay model and the Lotka-Volterra model, and describe a reason for each of the differences.
 
-# 5.6 Recall:
+5.9 Recall: List the three steps of modeling outlined in this section and state the goal(s) of each.
 
-List all of the parameters and variables in the Lotka-Volterra model and what each stands for. Then, describe the difference between variables and parameters. Finally, list at least three assumptions of the Lotka-Volterra model and indicate which are idealizations.
+5.10 Think: Recall how experiments involve the three steps of generating expectations, performing an intervention, and then analyzing the resulting data. State the three main steps in modeling, and describe the similarities between those and the three main steps in experimenting. Then, describe how modeling and experimenting are different.
 
-# 5.7 Think:
+5.11 Think: Suppose that we have a model of the Earth’s climate and we derive several predictions about average global temperature from the model. The assumptions of the model are somewhat unrealistic of the real-world climate, but replacing those assumptions with slightly different ones leads to similar predictions. Define robustness analysis and describe how this is an instance of it. What might you be able to learn from this invariance across the models?
 
-Suppose that you are modeling interactions between alligators (predator) and ducks (prey). Make a list of five features of the target system you think your model should take into account. Then, for each feature, say how it is similar or different in other predator/prey systems. For any features that are different, can you think of a related feature that would be similar between the systems?
-
-# 5.8 Apply:
-
-Indicate at least three important differences between the Bay model and the Lotka-Volterra model, and describe a reason for each of the differences.
-
-# 5.9 Recall:
-
-List the three steps of modeling outlined in this section and state the goal(s) of each.
-
-# 5.10 Think:
-
-Recall how experiments involve the three steps of generating expectations, performing an intervention, and then analyzing the resulting data. State the three main steps in modeling, and describe the similarities between those and the three main steps in experimenting. Then, describe how modeling and experimenting are different.
-
-# 5.11 Think:
-
-Suppose that we have a model of the Earth’s climate and we derive several predictions about average global temperature from the model. The assumptions of the model are somewhat unrealistic of the real-world climate, but replacing those assumptions with slightly different ones leads to similar predictions. Define robustness analysis and describe how this is an instance of it. What might you be able to learn from this invariance across the models?
-
-# 5.3 VARIETIES OF MODELS
+### 5.3 VARIETIES OF MODELS
 
 After reading this section, you should be able to:
 
 - Define data model, say how data models are used, and list the three steps to construct one
 - Give examples of models of these five types: scale, analog, mechanistic, mathematical, computer
----
-# Scientific modeling
-
-# Describe the prisoner’s dilemma and iterated prisoner’s dilemma models and what scientists learned from each
+- Describe the prisoner’s dilemma and iterated prisoner’s dilemma models and what scientists learned from each
 
  
 
-Models of data
-
-  
+#### Models of data  
 
 The range of things that count as scientific models is extremely broad. Scientific models can be concrete physical objects, like the Bay model, mathematical equations, like the Lotka‐Volterra model of predator/prey interaction, or even implemented by computers. We’ll explore this variety in this section.
 
@@ -539,78 +171,32 @@ Data models are developed by first eliminating errors, then displaying measureme
 Consider measurements of the positions of a planet—say, Neptune—over a period of months. Those measurements will be influenced by more than Neptune’s position. They will also reflect some combination of human mistakes, flaws and limitations of instruments used, like a telescope, and inaccuracies from changing atmospheric conditions. Scientists can try to identify such errors by calibrating the telescope and recording the atmospheric conditions along with their measurement of Neptune’s position. This is called data cleansing: identifying and correcting errors in a data set by deciding which data are questionable and should be eliminated.
 
 Then, the next step is to represent the data in a meaningful way. Data of Neptune’s position over a period of months may be visualized as charted points. Finally, these points can be used to draw a curve of Neptune’s progression. The points represent scientists’ measurements, and the curve represents the scientists’ best guess for Neptune’s path through the sky. This curve is the data model.
----
-# 118 Scientific modeling
-
- 
-
-  
-
-# Illustration of the problem of curve fitting using data about air pollution and life expectancy in different cities
-
-Figure 5.5
 
 This is a complicated enough task that it has its own name: the problem of curve fitting. Curve fitting is extrapolating from a data set to expected data by fitting a continuous line through a data plot. The problem is that data, no matter how much you collect, are always consistent with multiple different curves. Suppose that you have data for two variables—say, air pollution and life expectancy in different cities—and you want to figure out the mathematical relationship between the two. That is, you want to learn how people’s life expectancy relates to the level of air pollution where they live. Your data are represented by the points in Figure 5.5. Figure 5.5 also shows different curves, representing different relationships between air pollution and life expectancy, each of which appears to fit the data pretty well. Put in terms of underdetermination, introduced in Chapter 3, the data underdetermine which curve best captures the relationship between these two variables.
 
 There’s no easy answer to how scientists should decide which curve fitting the data is best. Finding the curve that best fits all data isn’t usually the best approach. Data models can fit the data too well; the problem with sticking too closely to the actual data is that those data are never perfect. There might be outliers, or values that deviate from the norm for one reason or another, and noise, influences on data that are incidental to the focus. Scientists want their data models to be better than the actual data they’ve collected. In the end, they must choose a data model based on their background knowledge about the phenomenon and what they want to use the data model for. New data can be used to check how well the selected data model works, just as models of phenomena can be calibrated with comparison to their targets. Big data approaches, discussed in Chapter 4, make data modeling even more challenging. A lot of data without a lot of background knowledge about the data makes it even more difficult to solve the curve-fitting problem.
 
-# Scale models
+#### Scale models
 
-Data models are used in experiments and non-experimental studies, where the phenomena are investigated directly. In contrast, models of phenomena, our main focus in this chapter, are used to indirectly investigate phenomena: the model is studied in
----
-# Scientific modeling
+Data models are used in experiments and non-experimental studies, where the phenomena are investigated directly. In contrast, models of phenomena, our main focus in this chapter, are used to indirectly investigate phenomena: the model is studied in order to draw conclusions about its target. This can be especially useful when direct investigation, experiments and studies, aren’t feasible—like how the Reber plan would affect the San Francisco Bay—or scientists want to draw broad conclusions about a class of phenomena—like how predator and prey population numbers influence each other. As we’ve already seen with the Bay model and the Lotka‐Volterra model, there are many different types of models of phenomena.
 
-In order to draw conclusions about its target. This can be especially useful when direct investigation, experiments and studies, aren’t feasible—like how the Reber plan would affect the San Francisco Bay—or scientists want to draw broad conclusions about a class of phenomena—like how predator and prey population numbers influence each other. As we’ve already seen with the Bay model and the Lotka‐Volterra model, there are many different types of models of phenomena.
-
-# Scale models
-
-are concrete physical objects that are downsized or enlarged representations of their target systems. Architectural models of buildings or urban landscapes are a familiar example; these are widely used in civil engineering. The Bay model is also a scale model. Its spatial scale is 1:1000 in length (one meter in the model represents...
-
-# Watson and Crick’s scale model of DNA’s double helix structure
-
-FIGURE 5.6
----
-# Scientific modeling
-
-1,000 meters in the real world) and 1:100 in depth (one meter in the model represents 100 meters in the real world). The Bay model also has a shorter timescale; 14.9 minutes in the model represents a 24-hour day in the real world.
+**Scale models** are concrete physical objects that are downsized or enlarged representations of their target systems. Architectural models of buildings or urban landscapes are a familiar example; these are widely used in civil engineering. The Bay model is also a scale model. Its spatial scale is 1:1000 in length (one meter in the model represents 1,000 meters in the real world) and 1:100 in depth (one meter in the model represents 100 meters in the real world). The Bay model also has a shorter timescale; 14.9 minutes in the model represents a 24-hour day in the real world.
 
 Other scale models are enlarged representations of their targets. In 1953, James Watson and Francis Crick announced the historic discovery that the structure of DNA is a double helix. Watson and Crick had spent a couple of years building scale models out of wire and tin plates in the shape of the building blocks of DNA. After several failures, the two scientists recognized, in part from the x-ray crystallography work of Rosalind Franklin and Maurice Wilkins, that a double helix structure best fit existing knowledge about DNA. Their model had a spatial scale of roughly 1 billion:1. That is, one centimeter in the double helix model represented one-billionth of a centimeter in a real DNA molecule. (See Chapter 13 for more discussion of this discovery, including Rosalind Franklin’s role.)
 
-# Analogical models
+#### Analogical models
 
 Analogical models are representations with features similar to focal features of a target system. The Bay model is also an analogical model, as it shares physical properties like tides and currents with its target. But analogical models don’t need to be concrete. An example of an abstract analog model is the computer model of the mind, which is based on formal similarities between computers and minds. Like computers, the human mind is often thought of as an information-processing system that can be described in functional terms—that is, without talking about its actual physical composition, or hardware, but referring to what it does. Like computers, minds can be understood in terms of the operations they carry out to solve certain tasks, or in terms of their software.
 
 Another example of an analogical model—located somewhere between the Bay model and the computer model of the mind on the concrete/abstract spectrum—is the Monetary National Income Analogue Computer (MONIAC). Also known as a Phillips machine, MONIAC is a hydraulic model that uses water flow, like the Bay model, but to represent the British economy. William Phillips built MONIAC in 1949 using a collection of plastic tanks, each representing some aspect of the economy, connected by pipes and sluices and different valves. The machine used an old airplane motor to pump around dyed water, representing money, to simulate the flow of money in an economy. An overhead tank, representing a treasury, could be drained so that the water inside could flow to other economic sectors (education, healthcare, infrastructure and investment, savings, etc.). Water could be pumped back to the treasury tank to represent taxation and state revenue. Exports and imports could also be simulated by adding or draining water from the model. MONIAC is a physical model, but not a scale model. The British economy isn’t operated hydraulically, of course. MONIAC used water as an analog to money; changes in water level and flow were analogous to changes in amounts of money in and transfer among various sectors of the British economy. In its day, this was an amazingly accurate tool for studying how changes in different economic sectors affect others.
 
-One type of analogical model is the mechanistic model, a model that represents the component parts and operations constituting some recurring process. Various processes
----
-# Scientific modeling
+One type of analogical model is the mechanistic model, a model that represents the component parts and operations constituting some recurring process. Various processes in living organisms can be construed mechanistically, such as blood circulation, protein synthesis, and cellular respiration. A mechanistic model helps illuminate how the phenomenon depends on the orchestrated functioning of component parts. Mechanistic models can be physical structures, but most mechanistic models are schematic representations of structures, functions, and the relationships among them. For example, the mechanistic model of the cellular sodium-potassium pump depicted in Figure 5.8 is a generic representation of how sodium and potassium are exchanged through cell membranes.
 
-Phillips’s MONIAC hydro-economic model
+Relying on analogies is a particularly useful strategy in early stages of modeling, when scientists may have little or no knowledge of the target system. This enables scientists to focus on the salient features of the target and to let the discovery of analogous features guide modeling approaches. For example, spiral staircases were an inspiration to Watson and Crick, guiding their modeling efforts of DNA toward a double helix structure. As knowledge about the target develops, analogical models may give way to models less obviously related to the target systems they represent.
 
-in living organisms can be construed mechanistically, such as blood circulation, protein synthesis, and cellular respiration. A mechanistic model helps illuminate how the phenomenon depends on the orchestrated functioning of component parts. Mechanistic models can be physical structures, but most mechanistic models are schematic representations of structures, functions, and the relationships among them. For example, the mechanistic model of the cellular sodium-potassium pump depicted in Figure 5.8 is a generic representation of how sodium and potassium are exchanged through cell membranes.
+#### Mathematical models
 
-Relying on analogies is a particularly useful strategy in early stages of modeling, when scientists may have little or no knowledge of the target system. This enables scientists to focus on the salient features of the target and to let the discovery of analogous features guide modeling approaches. For example, spiral staircases were an inspiration to Watson and Crick, guiding their modeling efforts of DNA toward a double helix.
----
-# 122 Scientific modeling
-
- 
-
-  
-
-# Visual depiction of a mechanistic model of the sodium-potassium pump
-
-# FIGURE 5.8
-
-structure. As knowledge about the target develops, analogical models may give way to models less obviously related to the target systems they represent.
-
-# Mathematical models
-
-Mathematical models are mathematical equations that use variables, parameters, and constants to represent one or more target systems. The Lotka‐Volterra model is an example. It uses a pair of first‐order differential equations to represent changes in predator and prey populations over time. The first equation, *d x /d t = α x − βxy, describes the fluctuations of a prey population, d x, over time, d t, where αx represents its exponential growth and β xy represents the rate of predator/prey interaction. The number of mice at a time, for example, is determined by their population growth, minus the rate at which they’re preyed upon by, say, hawks. In contrast, the number of hawks is fixed by their population growth given the supply of prey, minus their mortality rate. Hence, the second equation, d y /d t = δxy − γy, describes the fluctuations of a predator population, d y, over the same time interval, where δ xy represents predator population growth and γ y* represents loss of predators due to events like death, disease, or emigration. (When we introduced the Lotka‐Volterra model earlier in the
----
-# Scientific modeling
-
-In this chapter, we said that x is a variable representing the prey population size and y is a variable representing the predator population size, while α, β, δ, and γ are parameters for, respectively, the prey population’s rate of growth without predation, the rate at which prey encounter predators, the predator population’s rate of growth, and the loss of predators by either death or emigration. Look at what we say about each part of each equation here with those definitions in mind to get a better sense for what each equation is used to represent.
+Mathematical models are mathematical equations that use variables, parameters, and constants to represent one or more target systems. The Lotka‐Volterra model is an example. It uses a pair of first‐order differential equations to represent changes in predator and prey populations over time. The first equation, d x /d t = α x − βxy, describes the fluctuations of a prey population, d x, over time, d t, where αx represents its exponential growth and β xy represents the rate of predator/prey interaction. The number of mice at a time, for example, is determined by their population growth, minus the rate at which they’re preyed upon by, say, hawks. In contrast, the number of hawks is fixed by their population growth given the supply of prey, minus their mortality rate. Hence, the second equation, d y /d t = δxy − γy, describes the fluctuations of a predator population, d y, over the same time interval, where δ xy represents predator population growth and γ y represents loss of predators due to events like death, disease, or emigration. (When we introduced the Lotka‐Volterra model earlier in this chapter, we said that x is a variable representing the prey population size and y is a variable representing the predator population size, while α, β, δ, and γ are parameters for, respectively, the prey population’s rate of growth without predation, the rate at which prey encounter predators, the predator population’s rate of growth, and the loss of predators by either death or emigration. Look at what we say about each part of each equation here with those definitions in mind to get a better sense for what each equation is used to represent.)
 
 Another example of a mathematical model is a game theory model called the prisoner’s dilemma. Suppose that you and your friend Dominik have been arrested for robbing a bank, and you’ve been placed in different jail cells. A prosecutor makes this offer to each one of you separately:
 
@@ -623,10 +209,8 @@ The prisoner’s dilemma seems to raise a puzzle for rationality. You are better
 The prisoner’s dilemma is usually represented using the mathematical formalism of game theory. The prisoner’s dilemma we described is depicted by the payoff matrix in Table 5.1.
 
 Although this situation may seem contrived, numerous real-life scenarios can be modeled with a generic version of the payoff matrix, as shown in Table 5.1. The numbers represent generic payoffs or consequences of each decision. The higher the number, the more desirable the payoff. The first number in each set of parentheses represents Player 1’s payoff, the second number Player 2’s payoff. What’s important about these payoff numbers is just that the number for defecting is always higher than the number for cooperating, but the number when...
----
-# 124 Scientific modeling
 
-# (a) Game theory payoff matrix for the prisoner’s dilemma (top); (b) Version of the prisoner’s dilemma generic to any choice of cooperating or defecting (bottom)
+**Table 5.1** (a) Game theory payoff matrix for the prisoner’s dilemma (top); (b) Version of the prisoner’s dilemma generic to any choice of cooperating or defecting (bottom)
 
 | |Dominik|Remains Silent|Betrays| |
 |---|---|---|---|---|
@@ -641,10 +225,8 @@ Although this situation may seem contrived, numerous real-life scenarios can be 
 Both players cooperating is higher than the number when both players defect. In Table 5.1 b, 3 > 2 and 1 > 0, but 2 > 1. These numbers capture the dilemma: you do better if you defect regardless of your partner’s choice, but things will go better for you if your partner cooperates. The bank robbery scenario is just a vivid illustration; the prisoner’s dilemma can model lots of real-world situations involving people, businesses, nations, animals, or even bacteria. Any real-life scenario in which entities vary their strategy in ways that affect each other can be represented by the prisoner’s dilemma game if the desirability of the consequences can be represented by these payoff numbers.
 
 The prisoner’s dilemma has been used to model many scenarios involving cooperation, in human societies and the biological world alike. For example, consider the symbiotic relationship of cleaner fish. Individuals of one species (the cleaner) remove parasites and dead skin from individuals of the other species (the client). Cleaner fish may choose to cooperate by cleaning the client fish or to defect by eating extra skin from the client fish. Client fish may choose to cooperate by allowing the cleaner fish to clean safely or to defect by threatening or eating the cleaner fish. Both fish types are better off if they cooperate: the client fish gets an important cleaning while the cleaner fish gets dinner. But there’s a benefit to defecting for each: the cleaner fish would get a bigger dinner by eating more from the client fish, and the client fish would get to eat the cleaner fish. The prisoner’s dilemma has been used to reveal the circumstances that can enable cooperative symbiosis like this to evolve.
----
-# Scientific modeling
 
-# Computer models
+#### Computer models
 
 While many real‐world situations can be modeled as cases of the prisoner’s dilemma, what we’ve seen so far isn’t enough to show why businesses, gangsters, fish, and nations so often cooperate in real life. One important reason is that, in many real‐life scenarios, decisions about whether to cooperate aren’t made in an isolated room, separated from your partner. Instead, businesses, gangsters, fish, and nations all tend to signal their intentions, negotiate while making decisions, or interact repeatedly over time, allowing reputations to form.
 
@@ -654,27 +236,19 @@ In Chapter 4, we introduced computer simulations: computer programs developed fr
 
 By inviting open participation from other modelers, Axelrod made it so that the strategies deployed in his model weren’t limited by his own preconceptions, and the results did turn out to be surprising. The winning strategy, accumulating the most points in the iterated prisoner’s dilemma tournament, belonged to a program named Tit‐for‐Tat, submitted by psychologist Anatole Rapoport. The program was so simple that it had only a few lines of programming code. Tit‐for‐Tat cooperated in the first round of any game it played, and then it mirrored the other player’s previous action in every subsequent round. So, when Tit‐for‐Tat played against generally cooperative programs, it behaved cooperatively and reaped the rewards of that mutual benefit. But when Tit‐for‐Tat played against players that frequently defected, it too played selfishly after that initial cooperative move. This protected it from exploitation by selfish programs. Axelrod’s computer simulation thus demonstrated the strategic success of emulating the cooperation of others, which has been dubbed reciprocal altruism.
 
-# EXERCISES
+##### EXERCISES
 
 5.12 Recall: Characterize models of data and models of phenomena, and give an example of each. How are these types of models similar? How are they different?
----
-# 5.13 Apply:
 
-List the five types of models of phenomena described in this section, and give an example of each. For each example, indicate why it counts as a model of that type, and what target system(s) it is supposed to represent. Then, rank your examples from 1 to 5, where 1 is the most concrete relationship to the target system(s) and 5 is the most abstract.
+5.13 Apply: List the five types of models of phenomena described in this section, and give an example of each. For each example, indicate why it counts as a model of that type, and what target system(s) it is supposed to represent. Then, rank your examples from 1 to 5, where 1 is the most concrete relationship to the target system(s) and 5 is the most abstract.
 
-# 5.14 Recall:
+5.14 Recall: List the three steps of data modeling. Then, describe the curve-fitting problem and indicate how it complicates those steps.
 
-List the three steps of data modeling. Then, describe the curve-fitting problem and indicate how it complicates those steps.
+5.15 Think: Describe the prisoner’s dilemma and iterated prisoner’s dilemma models, and indicate what type of model each is. Considering both models, what do you take the target system(s) to be, and what do you think scientists can learn from these models?
 
-# 5.15 Think:
+5.16 Recall: Mathematical models are among the most abstract representations of target systems. Describe how mathematical models are nonetheless similar to target systems, using the example of the Lotka-Volterra model. (Returning to section 5.3’s discussion of the Lotka-Volterra model might be helpful.)
 
-Describe the prisoner’s dilemma and iterated prisoner’s dilemma models, and indicate what type of model each is. Considering both models, what do you take the target system(s) to be, and what do you think scientists can learn from these models?
-
-# 5.16 Recall:
-
-Mathematical models are among the most abstract representations of target systems. Describe how mathematical models are nonetheless similar to target systems, using the example of the Lotka-Volterra model. (Returning to section 5.3’s discussion of the Lotka-Volterra model might be helpful.)
-
-# 5.4 LEARNING FROM MODELS
+### 5.4 LEARNING FROM MODELS
 
 After reading this section, you should be able to:
 
@@ -682,27 +256,21 @@ After reading this section, you should be able to:
 - Identify three features that all models share
 - List five desirable features of models and describe tradeoffs among these features
 
-# Modeling as experimentation and theorizing
+#### Modeling as experimentation and theorizing
 
 Constructing and analyzing a model shares some similarities with experimentation. Both experimenters and modelers perform interventions to test expectations based on a hypothesis; like experiments, modeling can provide evidence for or against hypotheses about target systems. Expectations about the consequences of the Reber plan for the San Francisco Bay were tested with interventions on the Bay model. Animal models like the fruit fly are used to test expectations about the genetic causes of human diseases, like diabetes and lymphoma. And studying the iterated prisoner’s dilemma helps test expectations about the conditions that enable cooperative behavior to emerge among self‐interested individuals.
 
-In each example, the models were used to test scientists’ hypotheses about real‐world systems, sometimes with surprising results. So, models can play a role similar to experiments. One important difference is that, with experiments, scientists intervene directly on the target system, whereas with models, interventions to models are used.
----
-# Scientific modeling
-
-to draw conclusions about the target system. This is why models must accurately represent their targets.
+In each example, the models were used to test scientists’ hypotheses about real‐world systems, sometimes with surprising results. So, models can play a role similar to experiments. One important difference is that, with experiments, scientists intervene directly on the target system, whereas with models, interventions to models are used to draw conclusions about the target system. This is why models must accurately represent their targets.
 
 Getting models to reflect their targets more accurately is a primary task of modeling. When a model is known to accurately represent its target, it can play a role similar to a scientific theory by representing core features of that phenomenon. When a model behaves similarly to the expected target system(s) in many instances and across different circumstances, it may become accepted as part of a theory of how the target behaves. An example of such a theoretical use of modeling is the Lotka-Volterra model of predator-prey interactions. If one sets the model’s parameters based on observations or estimates of specific predator and prey populations, one can then use the model to predict changes over time in the sizes of these populations. These predictions are a good account of how real predator-prey populations behave, and when they go wrong, one can usually figure out why by comparing the model’s features to the target system’s features.
 
 So, models can play an experimental role by helping to investigate phenomena empirically, and they can play a theoretical role by providing an account of phenomena. Sometimes the same model can even play both experimental and theoretical roles. In Axelrod’s tournament, computer simulations served as virtual environments to test which strategies would perform best in an iterated prisoner’s dilemma game. While there were no expectations that Tit-for-Tat would win, this outcome accorded with an existing theory in evolutionary biology, namely reciprocal altruism. The basic idea is that it can be evolutionarily advantageous for an organism to help another at some cost to itself if there is a chance the favor will be returned in the future. The success of Tit-for-Tat was based on reciprocity, and so was consistent with this theory. Thus, the success of Tit-for-Tat in Axelrod’s computer tournament confirmed the idea in evolutionary theory that natural selection can favor cooperative behavior, even when there are costs, if the behavior is reciprocal.
 
-# Common features of models
+#### Common features of models
 
 This chapter has emphasized how different models can be from one another. Still, all models share three important features. First, all scientific models are used to learn about the world. Data models represent data to enable hypothesis-testing. Constructing and investigating models of phenomena enable scientists to reason about target system(s) in hopes of gaining new scientific knowledge. In both cases, the models are used as vehicles for learning about natural phenomena investigated in science.
 
 Second, all models are used to represent: they are about, or stand for, the phenomena they target—or, for data models, the data they characterize. For a model to represent a target, it must be like the target in the right ways. Often, this likeness is understood in terms of similarity. But we have said that models aren’t exactly like the target systems they represent; they are also dissimilar from their targets in important ways—smaller or larger, mathematical or computerized. What similarities and differences are intended between a model and a target governs how the model should be interpreted and used.
----
-# 128 Scientific modeling
 
 Third, all scientific models involve idealization and abstraction. When constructing a model, scientists leave out some features of the target system and incorporate features the target does not have. Omitting or ignoring known features of the system is called abstraction. Misrepresenting features of the system with false assumptions is idealization (defined earlier). Abstraction and idealization can be used to set aside or simplify some features of target systems to focus on only those features deemed important for the purposes at hand.
 
@@ -710,31 +278,25 @@ The Lotka-Volterra model, for example, abstracts away from properties of prey an
 
 These three features of scientific models—their use to learn about natural phenomena, their representation of target system(s), and their incorporation of abstractions and idealizations—all relate to one another. Abstraction and idealization are features of models that affect how they represent their targets, and the ways models represent their targets partly determines what can be learned from them. Representation, then, is at the heart of scientific modeling.
 
-# What makes a model good?
+#### What makes a model good?
 
 We’ve seen that a target system can be represented in many ways. A physical model of a hydrological system, like the Bay model, represents water flow in ways that differ from mathematical models of fluid dynamics. And both of those are different from the computer model that eventually took over the work of the Bay model. There’s no one perfect model of a given phenomenon. Instead, the goodness of a model is determined by what the modelers want to learn from the model. Other factors, such as cost or ease of developing or using the model, can also be important. Sometimes one model will be enough for learning about a target system; other times, multiple models of the same target will be necessary to gain knowledge.
 
 It is desirable for models to be accurate, general, precise, tractable, and robust. Each of these features helps make a model valuable, but attempting to maximize all of these features is futile. This is because these features trade off against one another: gaining more of one desirable feature of a model often requires losing ground on some other desirable features. For example, a model that is more general by applying to more target systems is also often less accurate of any one target system. This is because targets differ from one another in some regards. So, when constructing models, scientists must decide which desirable features to emphasize and which to compromise on.
----
-# Scientific modeling
 
-# Box 5.1 Values in Modeling
+##### Box 5.1 Values in Modeling
 
 Models always are similar to their target systems—but are also different from them in various ways. This creates an opportunity, or an inevitability, really, for the influence of social values on scientific modeling. Recall from Chapter 2 that social values are the priorities and moral principles accepted in some community. One way social values influence modeling is in shaping what features of a target system scientists choose to represent accurately in a model and what features they ignore or distort. These choices depend on modelers’ aims. The influence of values on these choices is salient especially (but not only) for models in social science, as how a phenomenon should be defined and measured given a certain purpose and what factors are important to understand often relate closely to social values.
 
 For example, philosopher of science Eric Winsberg has criticized predictive models of the Covid-19 pandemic that were used to justify governmental stay-at-home orders for including consideration of illness and death from Covid-19 but excluding consideration of the health impacts of school closures, social isolation, and deferred healthcare. There’s not one single right way to develop a model. What’s important is that similarities and differences from a target system be thoughtfully designed and open to scrutiny from others. Multiple models of one target phenomenon also can be developed; this was done for models of the Covid-19 pandemic, and it also occurs in climate change modeling and modeling of many other phenomena of widespread social importance. Multiple models of the same target can lay bare how modeling choices based on different aims and values influence what we understand about a phenomenon.
 
-# Accuracy
+#### Accuracy
 
 Accuracy is the extent to which a model represents the actual features of its target system; models that are more accurate better represent more features of a target system. A model that represented all and only the actual features of its target would be maximally accurate, but maximal accuracy is unhelpful; recall that models are improved by some differences from their targets. For example, the Bay model improved its representation of water flow by introducing inaccuracies of water depth. Overemphasizing a model’s accuracy can come at significant costs to tractability and generality—making the model difficult to develop and inapplicable to target systems that differ in minor ways.
 
-# Generality
+#### Generality
 
-Generality is a model’s applicability to a greater number of target systems; a model is more general when it applies to a greater number of target systems. Generality is a desirable feature of models insofar as it enables models to be reused in various circumstances. General models also highlight what various phenomena have in common with one another. Because the prisoner’s dilemma can apply to nations, squirrels, and
----
-# 130 Scientific modeling
-
-pirates, this is a general model with numerous applications. This generality reveals something that these scenarios have in common: repeated interactions can enable cooperation to spontaneously emerge. However, sacrificing some generality in a model can be worthwhile, depending on the aim of the model, if this enables the model to represent its target more accurately. A general prisoner’s dilemma model might be supplemented with information about, say, how natural selection favors bacteria that can persist near one another (a form of cooperation). The resulting model will give more insight into bacteria cooperation in virtue of this additional detail. But it also will be less general—it will no longer apply to humans or corporations. Which is better depends on the modelers’ aims.
+Generality is a model’s applicability to a greater number of target systems; a model is more general when it applies to a greater number of target systems. Generality is a desirable feature of models insofar as it enables models to be reused in various circumstances. General models also highlight what various phenomena have in common with one another. Because the prisoner’s dilemma can apply to nations, squirrels, and pirates, this is a general model with numerous applications. This generality reveals something that these scenarios have in common: repeated interactions can enable cooperation to spontaneously emerge. However, sacrificing some generality in a model can be worthwhile, depending on the aim of the model, if this enables the model to represent its target more accurately. A general prisoner’s dilemma model might be supplemented with information about, say, how natural selection favors bacteria that can persist near one another (a form of cooperation). The resulting model will give more insight into bacteria cooperation in virtue of this additional detail. But it also will be less general—it will no longer apply to humans or corporations. Which is better depends on the modelers’ aims.
 
 Precision is the extent to which a model finely specifies features of a target system; a more precise model more finely specifies features of the target. For example, climate models that allow scientists to predict how much warmer the global average temperature will be in 30 years within a range of ±0.05° Celsius are more precise than models that allow them to predict a ±1° Celsius range of temperature increase in 30 years. Notice that precision is different from accuracy. Whereas accuracy is a matter of a value’s proximity to the true value, precision is a matter of how finely specified a value is. So, a model can be very precise but inaccurate. Think of an archer loosing arrows at a target. Arrows that are scattered all around the bull’s eye but near it are accurate but imprecise. Arrows that are tightly clustered together but off center, away from the bull’s eye, are precise but inaccurate (see Figure 5.9).
 
@@ -742,53 +304,36 @@ Greater precision benefits a model by enabling it to give a more specific charac
 
 Tractability is the degree of ease in developing or using a model. More tractable models are easier to construct, manipulate, or analyze. This may involve different considerations, like the time it takes to run a model on a computer, whether the equations of a mathematical model have exact solutions, or even whether a modeler happens to be already familiar with one approach but not another. For example, because the iterated prisoner’s dilemma involves agents having repeated encounters, this model is less tractable than the original prisoner’s dilemma. One consequence of this decreased tractability is that scientists know exactly what the possible outcomes are for the original prisoner’s dilemma, but they cannot easily predict the outcomes for the iterated version. This is why Axelrod ran a computer tournament to explore some of the possible outcomes. Tractability is never maximized, though: the easiest thing to accomplish is nothing at all, and more complicated models regularly result in more accurate, precise, and useful findings. For instance, the iterated prisoner’s dilemma reveals how repeat encounters can overcome the dilemma, making cooperation directly beneficial.
 
-Robustness is a measure of insensitivity to features that differ between a model and the target system, including abstractions and idealizations. Normally, scientists don’t want their model’s predictions to be influenced by those features, since they
----
-# Scientific modeling
-
- 
-
-  
-
-# Differentiating between accuracy and precision
-
-aren’t shared by the target. So, a more robust model is one that changes less despite variation in its assumptions. But limited robustness is inevitable. Models incorporate assumptions, including idealizations, that are needed for them to do the tasks they are designed for. If they didn’t matter, they wouldn’t be needed. What scientists aim to avoid is overreliance on specific assumptions that are unlikely to be true or even known to be false. Multiple models are sometimes used to determine how robust a model’s predictions are. If different models, with different assumptions, predict roughly the same result, that prediction seems more trustworthy than if it had been generated by just one model with uncertain assumptions and parameters. This is robustness analysis, introduced in section 5.2.
----
-# 132 Scientific modeling
+Robustness is a measure of insensitivity to features that differ between a model and the target system, including abstractions and idealizations. Normally, scientists don’t want their model’s predictions to be influenced by those features, since they aren’t shared by the target. So, a more robust model is one that changes less despite variation in its assumptions. But limited robustness is inevitable. Models incorporate assumptions, including idealizations, that are needed for them to do the tasks they are designed for. If they didn’t matter, they wouldn’t be needed. What scientists aim to avoid is overreliance on specific assumptions that are unlikely to be true or even known to be false. Multiple models are sometimes used to determine how robust a model’s predictions are. If different models, with different assumptions, predict roughly the same result, that prediction seems more trustworthy than if it had been generated by just one model with uncertain assumptions and parameters. This is robustness analysis, introduced in section 5.2.
 
 There is no single answer to how a model should best incorporate these desirable features, nor is there a perfect tradeoff among the features. Instead, scientists strategically develop their models to be tractable enough for their current circumstances; robust enough to be certain to some reasonable degree; accurate and precise enough to make interesting, trustworthy predictions; and general enough to be enlightening across the range of phenomena they are interested in. The balance struck thus depends in subtle ways on the phenomena under investigation, the scientists’ circumstances, and the purposes to which the models are put.
 
-# EXERCISES
+##### EXERCISES
 
-1. Recall: Describe how models can play an experimental role and how they can play a theoretical role, giving an example of each.
-2. Recall: List the three main features that scientific models share, and articulate how these three features relate to one another. Use one example model to illustrate all three features.
-3. Apply: Locate and investigate a scientific model not already discussed in this chapter. Classify its type of model, and describe what target system(s) it’s used to represent. Describe how the elements of the model represent features of the target system(s) and what scientists have learned about the target system(s) from the model. With reference to ideas from this chapter, discuss why this model is a helpful way for scientists to investigate this phenomenon.
-4. Recall: Define abstraction and idealization. What is the difference between them?
-5. Think: Choose one of the models discussed in this chapter. Formulate a list of the abstractions involved in using the model to represent its target system and a separate list of the idealizations involved in using the model to represent its target.
-6. Apply: In your own words, describe the five desirable features of models characterized at the end of this section. Then, for each feature, compare two models: the classic mathematical model of the prisoner’s dilemma and the computer model of the iterated prisoner’s dilemma. For each feature, write down whether you think one model is better and which one. Explain your answer.
+5.16 Recall: Describe how models can play an experimental role and how they can play a theoretical role, giving an example of each.
 
-# FURTHER READING
+5.17 Recall: List the three main features that scientific models share, and articulate how these three features relate to one another. Use one example model to illustrate all three features.
+
+5.18 Apply: Locate and investigate a scientific model not already discussed in this chapter. Classify its type of model, and describe what target system(s) it’s used to represent. Describe how the elements of the model represent features of the target system(s) and what scientists have learned about the target system(s) from the model. With reference to ideas from this chapter, discuss why this model is a helpful way for scientists to investigate this phenomenon.
+
+5.19 Recall: Define abstraction and idealization. What is the difference between them?
+
+5.20 Think: Choose one of the models discussed in this chapter. Formulate a list of the abstractions involved in using the model to represent its target system and a separate list of the idealizations involved in using the model to represent its target.
+
+5.21 Apply: In your own words, describe the five desirable features of models characterized at the end of this section. Then, for each feature, compare two models: the classic mathematical model of the prisoner’s dilemma and the computer model of the iterated prisoner’s dilemma. For each feature, write down whether you think one model is better and which one. Explain your answer.
+
+##### FURTHER READING
 
 For more on the use of models in science, see Weisberg, M. (2013). *Simulation and similarity: Using models to understand the world*. Oxford University Press.
 
 For more on idealization, abstraction, and tradeoffs, see Potochnik, A. (2017). *Idealization and the aims of science*. University of Chicago Press.
 
-For a discussion of computer simulation, see Frigg, R., & Reiss, J. (2009). The philosophy
----
-# Scientific modeling
-
-of simulation: Hot new issues or same old stew?
-
-Synthese, 169, 593–613.
+For a discussion of computer simulation, see Frigg, R., & Reiss, J. (2009). The philosophy of simulation: Hot new issues or same old stew? Synthese, 169, 593–613.
 
 For discussion of computer modeling and attention to climate change models, see Winsberg, E. (2010). Science in the age of computer simulation. University of Chicago Press.
 
- 
-
 For discussion of computational methods in science, see Humphreys, P. (2004). Extending ourselves: Computational science, empiricism, and scientific method. Oxford University Press.
 
-
----
 # CHAPTER 6
 
 # Deductive reasoning
