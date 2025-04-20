@@ -30,3 +30,4 @@ chroma/
 # env files
 .env
 .env.*
+data/chroma_db/chroma.sqlite3
